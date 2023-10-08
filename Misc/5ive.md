@@ -2,6 +2,9 @@
 ##### **Author**: 5c0r7 
 #### **Flag Format** : CTF_**password** 
 #### Solve: 8/19
+#### Points: 30 pts (at first)| 27 pts (at end)
+#### Write-up by: Jekyll ([0xJekyll](https://twitter.com/Ted_Kouhouenou))
+
 #### Description :
 ### [FR]
 Vite crack ce mot de passe :
