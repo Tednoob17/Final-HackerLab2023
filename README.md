@@ -14,17 +14,17 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 
 | Nom                                                              | Catégorie     | Auteur     | Points |
 |------------------------------------------------------------------|:-------------:|:----------:|:------:|
-| [Listen](Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |
-| [Custom](Steganography/Custom.mg)                                            | Steganography          | 5c0r7   | 70     |
-| [MysteriousLetter](Steganography/MysteriousLetter.md)                                    | Steganography        | r3s0lv3r   | 70     |
-| [Atinkpòn](Steganography/Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |
-| [Art of hiding: IDAT](Steganography/Art-of-hiding:IDAT.md)                              | Steganography        | 5c0r7   | 200     |
+| [Listen](Final-HackerLab2023/Steganography/Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |
+| [Custom](Custom.md)                                            | Steganography          | 5c0r7   | 70     |
+| [MysteriousLetter](Final-HackerLab2023/Steganography/Steganography/MysteriousLetter.md)                                    | Steganography        | r3s0lv3r   | 70     |
+| [Atinkpòn](Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |
+| [Art of hiding: IDAT](Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |
 | [Nùxoxo](Cryptography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |
 | [V3rt](Steganography/V3rt)                                    | Steganography        | Hum4n | 500    |
 | [Cryptography/Quelques-traits-dans-ma-lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |
 | [Atom](Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |
 | [Transpose](Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |
-| [Pivot](Cryptocraphy/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |
+| [Pivot](Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |
 | [Five o'clock](Cryptography/Five-o'clock.md)                       | Cryptography     |r3s0lv3r       | 70     |
 | [Mateau de Tor](Cryptography/Mateau-de-Tor.md)                       | Cryptography     | W1z4rd      | 70    |
 | [JPEG](Cryptography/JPEG.md)               | Cryptography     | Hum4n      | 70    |
