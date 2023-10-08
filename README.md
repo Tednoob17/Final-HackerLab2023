@@ -10,6 +10,7 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 
 ![HackerLab](Images/asinbenin_cover.jpeg)
 
+-------------------------------------------------------------------
 ### Challs-Dashboard
 
 | Nom                                                              | Catégorie     | Auteur     | Points |
@@ -45,9 +46,9 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [DEZOR](Cryptography/DEZOR.md)                    | Cryptography       | unpasswd     | 500    |
 | [EGBLEMANKOU](Cryptography/EGBLEMANKOU.md)                                         |Cryptography       | unpasswd    | 500    |
 | [Warmup 1](Cryptography/Warmup-1.md)                           | PWN       |  W1z4rd    | 30    |
-| [SirAccuse](Sequence/SirAccuse)                                  | Sequence      | SoEasY     | 20     |
-| [Pokemon](Sequence/Pokemon)                                      | Sequence      | xanhacks   | 50     |
-| [Vergrootglas](Steganography/Vergrootglas)                       | Steganography | xanhacks   | 25     |
+| [Warmup 2](PWN/Warmup-2)                                  | PWN      |      | 70     |
+| [Shellcode Executor](PWN/Shellcode-Executor.md)                                      | PWN      | 5c0r7   | 200     |
+| [GANKPAMÈ2](PWN/GANKPAMÈ2.md)                       | PWN | 5c0r7   | 500     |
 | [Communications secrètes](Steganography/CommunicationsSecretes)  | Steganography | Thib       | 30     |
 | [Some Good Music](Steganography/SomeGoodMusic)                   | Steganography | Thib       | 50     |
 | [Origami PDF](Steganography/OrigamiDeFormatDeDocumentPortable)   | Steganography | Thib       | 200    |
