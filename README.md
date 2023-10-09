@@ -23,6 +23,8 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 - [unpasswd](https://www.linkedin.com/in/arafat-lassissi-1883aa215/) 
 - [R!md0r](https://www.linkedin.com/in/aristide-sossou-9b315a127/)
 
+**Total : 95 Challenges** ,
+
 | Nom                                                              | Catégorie     | Auteur     | Points | Done   |
 |------------------------------------------------------------------|:-------------:|:----------:|:------:|:------:|
 | [Listen](./Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |
