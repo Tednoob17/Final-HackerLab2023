@@ -116,6 +116,3 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [Forensic 3](Forensic/Forensic-3.md)                                         | Forensic           | r3s0lv3r     | 200     |
 | [weird lsb](Forensic/weird-lsb.md)                                     | Forensic           |5c0r7    | 200     |
 | [zǐnflú](Forensic/zǐnflú.md)                                   | Forensic           | W1z4rd      | 500     |
-| [My Private Server](Web/MyPrivateServer)                         | Forensic           | Worty      | 100    |
-| [Matcheees !](Web/Matcheees)                                     | Web           | xanhacks   | 200    |
-  
