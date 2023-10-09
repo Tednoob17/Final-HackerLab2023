@@ -71,49 +71,49 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [NotBase](./Misc/NotBase.md)                              | Misc           | unpasswd      | 200    |
 | [Nùkanbyɔ](./Misc/Nùkanbyɔ.md)                               | Misc           | W1z4rd      | 500    |
 | [Drôle de chiffrement](./Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |
-| [Hacker bot](Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |
-| [Fake](Fake.md)                                  | Reverse     | 5c0r7     | 30     |
-| [Beginner](Final-HackerLab2023/Reverse/Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |
-| [LOR](LOR.md)                       | Reverse | unpasswd   | 70     |
-| [Custom Encryption](Custom-Encryption.md)  | Reverse | Hum4n       | 70     |
-| [RandomisRandom](RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |
-| [siká-netic](siká-netic.md)   | Reverse | W1z4rd       | 200    |
-| [May Day](Steganography/MayDay.md)              | Reverse | W1z4rd        | 200    |
-| [Couvent des Initiés](Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |
-| [Connect You](ConnectYou.md)                                     | Web           | 5c0r7    | 70     |
-| [Source](Source.md)                                   | Web           | 5c0r7      | 70     |
-| [FAKE_POWER](FAKE_POWER.md)                         | Web           | unpasswd      | 70    |
-| [Baby-hunter: cookies](Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |
-| [Upload me](Upload-me.md)                                           | Web           | Hum4n   | 70    |
-| [Baby-hunter1: rodi](Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |
-| [Refff](Refff.md)                          | Web           |  Hum4n     | 200    |
-| [Bazik-node](Bazik-node.md)                              | Web           |   Hum4n    | 200    |
-| [Les trésors](Les-trésors.md)                               | Web           |  Hum4n     | 200    |
-| [PHP2](PHP2.md)                               | Web           |  5c0r7      | 200    |
-| [MAINTENANCE](MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |
-| [Prize Hunter](Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |
-| [DIN](DIN.md)                                  | Web      | unpasswd      | 200     |
-| [DJUDA](DJUDA.md)                                      | Web      | unpasswd   | 200     |
-| [Baby-hunter2:covid is back](Baby-hunter2-covid-is-back.md)                       | Web | W1z4rd   | 200     |
-| [Mission2](Final-HackerLab2023/Web/Web/Mission2.md)  | Web | 5c0r7        | 200     |
-| [MESSAGE](Final-HackerLab2023/Web/Web/MESSAGE.md)                   | Web | unpasswd       | 200     |
-| [Baby-hunter3: forbidden](Baby-hunter3-forbidden.md)   | Web | W1z4rd       | 200    |
-| [Renderer 1](Renderer-1.md)              | Web | 5c0r7       | 200    |
-| [Sn4p-Sh0t](Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |
-| [GARDIEN](GARDIEN.md)                                     | Web           | unpasswd   | 500     |
-| [Renderer 2](Renderer-2.md)                                   | Web           | 5c0r7       | 500     |
-| [RFE](RFE.md)                         | Web           |  5c0r7      | 500    |
-| [ABRACADABRAaa](ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |
-| [Investigation 1](Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |
-| [Forensic 1](Forensic-1.md)                                           | Forensic           | r3s0lv3r   | 70    |
-| [Investigation 2](Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |
-| [Investigation 3](Investigation-3.md)                              | Forensic           | Hum4n      | 70    |
-| [Forensic 2](Forensic-2.md)                               | Forensic           | r3s0lv3r      | 70    |
-| [Artefact](Artefact.md)                       | Forensic |W1z4rd   | 70     |
-| [INTRUSION](INTRUSION.md)  | Forensic | W1z4rd       | 70     |
-| [QR](QR.md)                   | Forensic |  W1z4rd      | 200     |
-| [Last Action](Last-Action.md)   | Forensic |W1z4rd     | 200    |✅|
-| [show_me](show_me.md)              | Forensic | unpasswd       | 200    |
-| [Forensic 3](Forensic-3.md)                                         | Forensic           | r3s0lv3r     | 200     |
-| [weird lsb](weird-lsb.md)                                     | Forensic           |5c0r7    | 200     |
-| [zǐnflú](zǐnflú.md)                                   | Forensic           | W1z4rd      | 500     |
+| [Hacker bot](./Reverse/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |
+| [Fake](./Reverse/Fake.md)                                  | Reverse     | 5c0r7     | 30     |
+| [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |
+| [LOR](./Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |
+| [Custom Encryption](./Reverse/Custom-Encryption.md)  | Reverse | Hum4n       | 70     |
+| [RandomisRandom](./Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |
+| [siká-netic](./Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |
+| [May Day](./Reverse/MayDay.md)              | Reverse | W1z4rd        | 200    |
+| [Couvent des Initiés](./Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |
+| [Connect You](./Web/ConnectYou.md)                                     | Web           | 5c0r7    | 70     |
+| [Source](./Web/Source.md)                                   | Web           | 5c0r7      | 70     |
+| [FAKE_POWER](./Web/FAKE_POWER.md)                         | Web           | unpasswd      | 70    |
+| [Baby-hunter: cookies](./Web/Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |
+| [Upload me](./Web/Upload-me.md)                                           | Web           | Hum4n   | 70    |
+| [Baby-hunter1: rodi](./Web/Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |
+| [Refff](./Web/Refff.md)                          | Web           |  Hum4n     | 200    |
+| [Bazik-node](./Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |
+| [Les trésors](./Web/Les-trésors.md)                               | Web           |  Hum4n     | 200    |
+| [PHP2](./Web/PHP2.md)                               | Web           |  5c0r7      | 200    |
+| [MAINTENANCE](./Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |
+| [Prize Hunter](./Web/Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |
+| [DIN](./Web/DIN.md)                                  | Web      | unpasswd      | 200     |
+| [DJUDA](./Web/DJUDA.md)                                      | Web      | unpasswd   | 200     |
+| [Baby-hunter2:covid is back](./Web/Baby-hunter2-covid-is-back.md)                       | Web | W1z4rd   | 200     |
+| [Mission2](./Web/Mission2.md)  | Web | 5c0r7        | 200     |
+| [MESSAGE](./Web/MESSAGE.md)                   | Web | unpasswd       | 200     |
+| [Baby-hunter3: forbidden](./Web/Baby-hunter3-forbidden.md)   | Web | W1z4rd       | 200    |
+| [Renderer 1](./Web/Renderer-1.md)              | Web | 5c0r7       | 200    |
+| [Sn4p-Sh0t](./Web/Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |
+| [GARDIEN](./Web/GARDIEN.md)                                     | Web           | unpasswd   | 500     |
+| [Renderer 2](./Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     |
+| [RFE](./Web/RFE.md)                         | Web           |  5c0r7      | 500    |
+| [ABRACADABRAaa](./Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |
+| [Investigation 1](./Forensic/Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |
+| [Forensic 1](./Forensic/Forensic-1.md)                                           | Forensic           | r3s0lv3r   | 70    |
+| [Investigation 2](./Forensic/Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |
+| [Investigation 3](./Forensic/Investigation-3.md)                              | Forensic           | Hum4n      | 70    |
+| [Forensic 2](./Forensic/Forensic-2.md)                               | Forensic           | r3s0lv3r      | 70    |
+| [Artefact](./Forensic/Artefact.md)                       | Forensic |W1z4rd   | 70     |
+| [Intrusion](./Forensic/Intrusion.md)  | Forensic | W1z4rd       | 70     |✅|
+| [QR](./Forensic/QR.md)                   | Forensic |  W1z4rd      | 200     |
+| [Last Action](./Forensic/Last-Action.md)   | Forensic |W1z4rd     | 200    |✅|
+| [show_me](./Forensic/show_me.md)              | Forensic | unpasswd       | 200    |
+| [Forensic 3](./Forensic/Forensic-3.md)                                         | Forensic           | r3s0lv3r     | 200     |
+| [weird lsb](./Forensic/weird-lsb.md)                                     | Forensic           |5c0r7    | 200     |
+| [zǐnflú](./Forensic/zǐnflú.md)                                   | Forensic           | W1z4rd      | 500     |
