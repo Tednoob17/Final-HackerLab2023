@@ -12,12 +12,12 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 
 -------------------------------------------------------------------
 ### Challs-Dashboard
-- []()
-- []()
+- [r3s0lv3r]()
+- [Hum4n](https://www.linkedin.com/in/hored-sossou-70792b114/) 
 - [W1z4rd](https://www.linkedin.com/in/emmanuel-hemadou-902725190/)
 - [5c0r7](https://www.linkedin.com/in/adonishomevo) 
 - [charlipy](https://www.linkedin.com/in/agossou-eliphele-charli/) 
-- [unpasswd](https://twitter.com/unpasswd_arafat) 
+- [unpasswd](https://www.linkedin.com/in/arafat-lassissi-1883aa215/) 
 
 | Nom                                                              | Catégorie     | Auteur     | Points |
 |------------------------------------------------------------------|:-------------:|:----------:|:------:|
