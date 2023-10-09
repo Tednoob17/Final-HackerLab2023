@@ -87,7 +87,7 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [Baby-hunter1: rodi](Web/Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |
 | [Refff](Web/Refff.md)                          | Web           |  Hum4n     | 200    |
 | [Bazik-node](Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |
-| [Les trésors](Web/Les trésors.md)                               | Web           |  Hum4n     | 200    |
+| [Les trésors](Web/Les-trésors.md)                               | Web           |  Hum4n     | 200    |
 | [PHP2](Web/PHP2.md)                               | Web           |  5c0r7      | 200    |
 | [MAINTENANCE](Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |
 | [Prize Hunter](Reverse/Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |
