@@ -12,11 +12,11 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 
 -------------------------------------------------------------------
 ### Challs-Dashboard
-- 
-- 
-- 
-- 
-- [charlipy](https://twitter.com/charliagossou) 
+- []()
+- []()
+- [W1z4rd](https://www.linkedin.com/in/emmanuel-hemadou-902725190/)
+- [5c0r7](https://www.linkedin.com/in/adonishomevo) 
+- [charlipy](https://www.linkedin.com/in/agossou-eliphele-charli/) 
 - [unpasswd](https://twitter.com/unpasswd_arafat) 
 
 | Nom                                                              | Catégorie     | Auteur     | Points |
@@ -103,23 +103,19 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [Renderer 2](Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     |
 | [RFE](Web/RFE.md)                         | Web           |  5c0r7      | 500    |
 | [ABRACADABRAaa](Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |
-| [NoSEC #1](Web/NoSEC1)                                           | Web           | xanhacks   | 225    |
-| [NoSEC #2](Web/NoSEC2)                                           | Web           | xanhacks   | 225    |
-| [Sessions Workout](Web/SessionsWorkout)                          | Web           | Worty      | 250    |
-| [Contact Me ! v2](Web/ContactMe!v2)                              | Web           | Worty      | 250    |
-| [C'est choquant](Web/CestChoquant)                               | Web           | Worty      | 275    |
-| [Vergrootglas](Steganography/Vergrootglas)                       | Steganography | xanhacks   | 25     |
-| [Communications secrètes](Steganography/CommunicationsSecretes)  | Steganography | Thib       | 30     |
-| [Some Good Music](Steganography/SomeGoodMusic)                   | Steganography | Thib       | 50     |
-| [Origami PDF](Steganography/OrigamiDeFormatDeDocumentPortable)   | Steganography | Thib       | 200    |
-| [Promenade binaire](Steganography/PromenadeBinaire)              | Steganography | Thib       | 220    |
-| [PasMalin](Web/PasMalin)                                         | Web           | xanhacks   | 25     |
-| [FreeAccess](Web/FreeAccess)                                     | Web           | xanhacks   | 30     |
-| [Contact Me !](Web/ContactMe!)                                   | Web           | Worty      | 80     |
-| [My Private Server](Web/MyPrivateServer)                         | Web           | Worty      | 100    |
+| [Investigation 1](Forensic/Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |
+| [Forensic 1](Forensic/Forensic-1.md)                                           | Forensic           | r3s0lv3r   | 70    |
+| [Investigation 2](Forensic/Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |
+| [Investigation 3](Forensic/Investigation-3.md)                              | Forensic           | Hum4n      | 70    |
+| [Forensic 2](Forensic/Forensic-2.md)                               | Forensic           | r3s0lv3r      | 70    |
+| [Artefact](FOrensic/Artefact.md)                       | Forensic |W1z4rd   | 70     |
+| [INTRUSION](Forensic/INTRUSION.md)  | Forensic | W1z4rd       | 70     |
+| [QR](Forensic/QR.md)                   | Forensic |  W1z4rd      | 200     |
+| [Last Action](Forensic/Last-Action.md)   | Forensic |W1z4rd     | 200    |
+| [show_me](Forensic/show_me.md)              | Forensic | unpasswd       | 200    |
+| [Forensic 3](Forensic/Forensic-3.md)                                         | Forensic           | r3s0lv3r     | 200     |
+| [weird lsb](Forensic/weird-lsb.md)                                     | Forensic           |5c0r7    | 200     |
+| [zǐnflú](Forensic/zǐnflú.md)                                   | Forensic           | W1z4rd      | 500     |
+| [My Private Server](Web/MyPrivateServer)                         | Forensic           | Worty      | 100    |
 | [Matcheees !](Web/Matcheees)                                     | Web           | xanhacks   | 200    |
-| [NoSEC #1](Web/NoSEC1)                                           | Web           | xanhacks   | 225    |
-| [NoSEC #2](Web/NoSEC2)                                           | Web           | xanhacks   | 225    |
-| [Sessions Workout](Web/SessionsWorkout)                          | Web           | Worty      | 250    |
-| [Contact Me ! v2](Web/ContactMe!v2)                              | Web           | Worty      | 250    |
-| [C'est choquant](Web/CestChoquant)                               | Web           | Worty      | 275    |
+  
