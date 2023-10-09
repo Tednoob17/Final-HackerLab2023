@@ -76,3 +76,54 @@ On sait que le format du Flag est comme ceci :
  Ainsi donc, on obtient comme flag : CTF_link.txt:2023-09-28 13:43:41:Adipol.
 
 Flag : `CTF_link.txt:2023-09-28 13:43:41:Adipol.`
+
+----------------------------------------------------------
+### EN Version
+
+ ### FR Version
+  > Challenge
+  ![last](Images/lastaction.png)
+
+After downloading the file, the first thing we do is check the file type, and it turns out to be a Microsoft Windows registry file.
+
+![file1](Images/amo1.png)
+We also notice that the `.copy0` extension is useless in our case, so we can remove it.
+
+We search the Internet for a tool to open the file. Windows Event Viewer can do it, according to a search. We try to open it with this tool, but receive a "damaged file" error.
+
+![file2](Images/amo2.png) 
+So we looked for another way. After some research, a member of the team 
+"[Jekyll](https://twitter.com/Ted_Kouhouenou)" discovered a tool that could help us. It's this tool: 
+**RegRipper 3.0** 
+
+
+![file3](Images/amo3.png) 
+> Source : `https://github.com/keydet89/RegRipper3.0` 
+
+I clone the repository
+```bash
+git clone https://github.com/keydet89/RegRipper3.0
+```
+
+Then I run the rr.exe command to start the tool.
+
+![file4](Images/amo4.png)
+The software runs 
+Next, enter the file from which you want to retrieve the information and the file that will receive the results, then click on "rip!" to launch the action.
+
+![file5](Images/amo5.png)
+
+We then examine the file after outputting the result. 
+After examination, we note a **false flag** and a keyword "Recent" and we also take care of discovering the most recent date in the file, which turns out to be **September 28, 2023.** 
+![file6](Images/amo6.png)
+
+What's intriguing here is the keyword **MRUListEx** .
+After some research, we note that we had to focus on the order of the numbers "the first is the last object opened", and not on the number to represent the order of opening.
+
+We know that the Flag format is like this: 
+- CTF_**filename**:**yyyy-mm-dd hh:mm:ss**:**DirectoryName** 
+
+
+ This gives us the flag : CTF_link.txt:2023-09-28 13:43:41:Adipol.
+
+Flag : `CTF_link.txt:2023-09-28 13:43:41:Adipol.`
