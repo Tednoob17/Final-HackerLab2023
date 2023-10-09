@@ -36,9 +36,9 @@ You are responsible for finding the following:
 Après téléchargement du fichier, première chose, on vérifie le type du fichier, et il s’avère que c’est un Microsoft Windows registry file.
 
 ![file1](Images/amo1.png)
-Nous remarquons aussi que l'extension `.copy0` ne sert a rien dns notre cas donc nous pouvons l'enlever
+Nous remarquons aussi que l'extension `.copy0` ne sert à rien de notre cas donc nous pouvons l'enlever
 
-On chercher sur internet un outil permettant d’ouvrir le fichier. L’observateur des évènements de Windows peut le faire d’après une recherche. On essaie donc de l’ouvrir avec mais on reçoit une erreur « fichier endommagé ».
+On cherchait sur internet un outil permettant d’ouvrir le fichier. L’observateur des événements de Windows peut le faire d’après une recherche. On essaie donc de l’ouvrir avec mais on reçoit une erreur « fichier endommagé ».
 
 ![file2](Images/amo2.png) 
 On cherche donc un autre moyen. Après des recherches, un membre de l’équipe 
@@ -54,16 +54,16 @@ Je clone le répertoire
 git clone https://github.com/keydet89/RegRipper3.0
 ```
 
-Puis j'exécute la commande rr.exe qui nous permettra de démarrer l’outil.
+Puis j'exécute la commande `rr.exe` qui nous permettra de démarrer l’outil.
 
 
 ![file4](Images/amo4.png)
-Le logiciel s'execute 
+Le logiciel s'exécute 
 Ensuite, on entre le fichier où on veut récupérer les informations et le fichier qui recevra les résultats, puis on clique sur « rip ! » pour lancer l’action.
 ![file5](Images/amo5.png)
 
-On examine ensuite le fichier apres la sortie du resultat. 
-Après examination, on note un **faux flag**  et un mot clé « Recent » et on se charge aussi de découvrir la date la plus récente dans le fichier, qui s’avère être le **28 septembre 2023.** 
+On examine ensuite le fichier après la sortie du résultat. 
+Après examination, on note un **faux flag**  et un mot clé « Récent » et on se charge aussi de découvrir la date la plus récente dans le fichier, qui s’avère être le **28 septembre 2023.** 
 ![file6](Images/amo6.png)
 
 Chose intrigante ici est le mot clé  **MRUListEx** .
