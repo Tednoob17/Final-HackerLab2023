@@ -52,7 +52,7 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [FASHION](./Cryptography/FASHION.md)                                         |Cryptography        | unpasswd   | 500    |
 | [DEZOR](./Cryptography/DEZOR.md)                    | Cryptography       | unpasswd     | 500    |
 | [EGBLEMANKOU](./Cryptography/EGBLEMANKOU.md)                                         |Cryptography       | unpasswd    | 500    |
-| [Warmup 1](./Cryptography/Warmup-1.md)                           | PWN       |  W1z4rd    | 30    | ✅|
+| [Warmup 1](./PWN/Warmup-1.md)                           | PWN       |  W1z4rd    | 30    | ✅|
 | [Warmup 2](./PWN/Warmup-2.md)                                  | PWN      |W1z4rd      | 70     |
 | [Shellcode Executor](./PWN/Shellcode-Executor.md)                                      | PWN      | 5c0r7   | 200     |
 | [GANKPAMÈ2](./PWN/GANKPAMÈ2.md)                       | PWN | 5c0r7   | 500     |
