@@ -97,10 +97,10 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [Mission2](Web/Mission2.md)  | Web | 5c0r7        | 200     |
 | [MESSAGE](Web/MESSAGE.md)                   | Web | unpasswd       | 200     |
 | [Baby-hunter3: forbidden](Web/Baby-hunter3-forbidden.md)   | Web | W1z4rd       | 200    |
-| [Renderer 1](Web/Renderer 1.md)              | Web | 5c0r7       | 200    |
+| [Renderer 1](Web/Renderer-1.md)              | Web | 5c0r7       | 200    |
 | [Sn4p-Sh0t](Web/Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |
 | [GARDIEN](Web/GARDIEN.md)                                     | Web           | unpasswd   | 500     |
-| [Renderer 2](Web/Renderer 2.md)                                   | Web           | 5c0r7       | 500     |
+| [Renderer 2](Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     |
 | [RFE](Web/RFE.md)                         | Web           |  5c0r7      | 500    |
 | [ABRACADABRAaa](Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |
 | [NoSEC #1](Web/NoSEC1)                                           | Web           | xanhacks   | 225    |
