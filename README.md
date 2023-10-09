@@ -12,6 +12,12 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 
 -------------------------------------------------------------------
 ### Challs-Dashboard
+- 
+- 
+- 
+- 
+- [charlipy](https://twitter.com/charliagossou) 
+- [unpasswd](https://twitter.com/unpasswd_arafat) 
 
 | Nom                                                              | Catégorie     | Auteur     | Points |
 |------------------------------------------------------------------|:-------------:|:----------:|:------:|
@@ -66,13 +72,13 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [Drôle de chiffrement](Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |
 | [Hacker bot](Misc/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |
 | [Fake](Reverse/Fake.md)                                  | Reverse     | 5c0r7     | 30     |
-| [Pokemon](Sequence/Pokemon)                                      | Sequence      | xanhacks   | 50     |
-| [Vergrootglas](Steganography/Vergrootglas)                       | Steganography | xanhacks   | 25     |
-| [Communications secrètes](Steganography/CommunicationsSecretes)  | Steganography | Thib       | 30     |
-| [Some Good Music](Steganography/SomeGoodMusic)                   | Steganography | Thib       | 50     |
-| [Origami PDF](Steganography/OrigamiDeFormatDeDocumentPortable)   | Steganography | Thib       | 200    |
-| [Promenade binaire](Steganography/PromenadeBinaire)              | Steganography | Thib       | 220    |
-| [PasMalin](Web/PasMalin)                                         | Web           | xanhacks   | 25     |
+| [Beginner](Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |
+| [LOR](Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |
+| [Custom Encryption](Reverse/Custom-Encryption.md)  | Reverse | Hum4n       | 70     |
+| [RandomisRandom](Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |
+| [siká-netic](Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |
+| [May Day](Steganography/MayDay.md)              | Reverse | W1z4rd        | 200    |
+| [Couvent des Initiés](Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |
 | [FreeAccess](Web/FreeAccess)                                     | Web           | xanhacks   | 30     |
 | [Contact Me !](Web/ContactMe!)                                   | Web           | Worty      | 80     |
 | [My Private Server](Web/MyPrivateServer)                         | Web           | Worty      | 100    |
