@@ -22,7 +22,7 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [Art of hiding: IDAT](Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |
 | [Nùxoxo](Cryptography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |
 | [V3rt](Steganography/V3rt)                                    | Steganography        | Hum4n | 500    |
-| [Cryptography/Quelques-traits-dans-ma-lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |
+| [Quelques-traits-dans-ma-lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |
 | [Atom](Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |
 | [Transpose](Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |
 | [Pivot](Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |
