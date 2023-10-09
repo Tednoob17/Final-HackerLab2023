@@ -22,8 +22,8 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 
 | Nom                                                              | Catégorie     | Auteur     | Points |
 |------------------------------------------------------------------|:-------------:|:----------:|:------:|
-| [Listen](Final-HackerLab2023/Steganography/Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |
-| [Custom](Custom.md)                                            | Steganography          | 5c0r7   | 70     |
+| [Listen](./Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |
+| [Custom](./Steganography/Custom.md)                                            | Steganography          | 5c0r7   | 70     |
 | [MysteriousLetter](Final-HackerLab2023/Steganography/Steganography/MysteriousLetter.md)                                    | Steganography        | r3s0lv3r   | 70     |
 | [Atinkpòn](Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |
 | [Art of hiding: IDAT](Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |
