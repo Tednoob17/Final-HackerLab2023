@@ -79,20 +79,35 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 | [siká-netic](Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |
 | [May Day](Steganography/MayDay.md)              | Reverse | W1z4rd        | 200    |
 | [Couvent des Initiés](Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |
-| [FreeAccess](Web/FreeAccess)                                     | Web           | xanhacks   | 30     |
-| [Contact Me !](Web/ContactMe!)                                   | Web           | Worty      | 80     |
-| [My Private Server](Web/MyPrivateServer)                         | Web           | Worty      | 100    |
-| [Matcheees !](Web/Matcheees)                                     | Web           | xanhacks   | 200    |
+| [Connect You](Web/ConnectYou.md)                                     | Web           | 5c0r7    | 70     |
+| [Source](Web/Source.md)                                   | Web           | 5c0r7      | 70     |
+| [FAKE_POWER](Web/FAKE_POWER.md)                         | Web           | unpasswd      | 70    |
+| [Baby-hunter: cookies](Web/Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |
+| [Upload me](Web/Upload-me.md)                                           | Web           | Hum4n   | 70    |
+| [Baby-hunter1: rodi](Web/Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |
+| [Refff](Web/Refff.md)                          | Web           |  Hum4n     | 200    |
+| [Bazik-node](Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |
+| [Les trésors](Web/Les trésors.md)                               | Web           |  Hum4n     | 200    |
+| [PHP2](Web/PHP2.md)                               | Web           |  5c0r7      | 200    |
+| [MAINTENANCE](Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |
+| [Prize Hunter](Reverse/Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |
+| [DIN](Web/DIN.md)                                  | Web      | unpasswd      | 200     |
+| [DJUDA](Web/DJUDA.md)                                      | Web      | unpasswd   | 200     |
+| [Baby-hunter2:covid is back](Web/Baby-hunter2-covid-is-back.md)                       | Web | W1z4rd   | 200     |
+| [Mission2](Web/Mission2.md)  | Web | 5c0r7        | 200     |
+| [MESSAGE](Web/MESSAGE.md)                   | Web | unpasswd       | 200     |
+| [Baby-hunter3: forbidden](Web/Baby-hunter3-forbidden.md)   | Web | W1z4rd       | 200    |
+| [Renderer 1](Web/Renderer 1.md)              | Web | 5c0r7       | 200    |
+| [Sn4p-Sh0t](Web/Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |
+| [GARDIEN](Web/GARDIEN.md)                                     | Web           | unpasswd   | 500     |
+| [Renderer 2](Web/Renderer 2.md)                                   | Web           | 5c0r7       | 500     |
+| [RFE](Web/RFE.md)                         | Web           |  5c0r7      | 500    |
+| [ABRACADABRAaa](Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |
 | [NoSEC #1](Web/NoSEC1)                                           | Web           | xanhacks   | 225    |
 | [NoSEC #2](Web/NoSEC2)                                           | Web           | xanhacks   | 225    |
 | [Sessions Workout](Web/SessionsWorkout)                          | Web           | Worty      | 250    |
 | [Contact Me ! v2](Web/ContactMe!v2)                              | Web           | Worty      | 250    |
 | [C'est choquant](Web/CestChoquant)                               | Web           | Worty      | 275    |
-| [C'est choquant](Web/CestChoquant)                               | Web           | Worty      | 275    |
-| [alARMe](Reverse/alARMe)                                         | Reverse       | SoEasY     | 400    |
-| [Risqué tout ça](Reverse/RisqueToutCa)                           | Reverse       | SoEasY     | 600    |
-| [SirAccuse](Sequence/SirAccuse)                                  | Sequence      | SoEasY     | 20     |
-| [Pokemon](Sequence/Pokemon)                                      | Sequence      | xanhacks   | 50     |
 | [Vergrootglas](Steganography/Vergrootglas)                       | Steganography | xanhacks   | 25     |
 | [Communications secrètes](Steganography/CommunicationsSecretes)  | Steganography | Thib       | 30     |
 | [Some Good Music](Steganography/SomeGoodMusic)                   | Steganography | Thib       | 50     |
