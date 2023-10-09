@@ -27,98 +27,98 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 
 | Nom                                                              | Catégorie     | Auteur     | Points | Done   |
 |------------------------------------------------------------------|:-------------:|:----------:|:------:|:------:|
-| [Listen](./Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |
-| [Custom](./Steganography/Custom.md)                                            | Steganography          | 5c0r7   | 70     |
-| [MysteriousLetter](./Steganography/MysteriousLetter.md)                                    | Steganography        | r3s0lv3r   | 70     |
-| [Atinkpòn](./Steganography/Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |
-| [Art of hiding: IDAT](./Steganography/Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |
-| [Nùxoxo](./Steganography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |
-| [V3rt](./Steganography/V3rt)                                    | Steganography        | Hum4n | 500    |
-| [Quelques-traits-dans-ma-lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |
-| [Atom](./Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |
-| [Transpose](./Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |
-| [Pivot](./Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |
-| [Five o'clock](./Cryptography/Five-o'clock.md)                       | Cryptography     |r3s0lv3r       | 70     |
-| [Mateau de Tor](./Cryptography/Mateau-de-Tor.md)                       | Cryptography     | W1z4rd      | 70    |
-| [JPEG](./Cryptography/JPEG.md)               | Cryptography     | Hum4n      | 70    |
-| [DNA](./Cryptography/DNA.md)               | Cryptography     |  Hum4n     | 70    |
-| [You Know](./Cryptography/You-Know.md)               | Cryptography     | W1z4rd      | 70    |
-| [RSA](./Cryptography/RSA.md)                                             |  Cryptography        | r3s0lv3r   | 70      |
-| [ANONYME](./Cryptography/ANONYME.md)                                       | Cryptography         | unpasswd     | 70     |
-| [ENCODING](./Cryptography/ENCODING.md)                 | Cryptography         | unpasswd      | 200     |
-| [MULTI](./Cryptography/MULTI.md)                                   | Cryptography         |unpasswd      | 200    |
+| [Listen](./Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |❌ |
+| [Custom](./Steganography/Custom.md)                                            | Steganography          | 5c0r7   | 70     |❌ |
+| [MysteriousLetter](./Steganography/MysteriousLetter.md)                                    | Steganography        | r3s0lv3r   | 70     |❌ |
+| [Atinkpòn](./Steganography/Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |❌ |
+| [Art of hiding: IDAT](./Steganography/Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |❌ |
+| [Nùxoxo](./Steganography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |❌ |
+| [V3rt](./Steganography/V3rt)                                    | Steganography        | Hum4n | 500    |❌ |
+| [Quelques-traits-dans-ma-lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |❌ |
+| [Atom](./Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |❌ |
+| [Transpose](./Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |❌ |
+| [Pivot](./Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |❌ |
+| [Five o'clock](./Cryptography/Five-o'clock.md)                       | Cryptography     |r3s0lv3r       | 70     |❌ |
+| [Mateau de Tor](./Cryptography/Mateau-de-Tor.md)                       | Cryptography     | W1z4rd      | 70    |❌ |
+| [JPEG](./Cryptography/JPEG.md)               | Cryptography     | Hum4n      | 70    |❌ |
+| [DNA](./Cryptography/DNA.md)               | Cryptography     |  Hum4n     | 70    |❌ |
+| [You Know](./Cryptography/You-Know.md)               | Cryptography     | W1z4rd      | 70    |❌ |
+| [RSA](./Cryptography/RSA.md)                                             |  Cryptography        | r3s0lv3r   | 70      |❌ |
+| [ANONYME](./Cryptography/ANONYME.md)                                       | Cryptography         | unpasswd     | 70     |❌ |
+| [ENCODING](./Cryptography/ENCODING.md)                 | Cryptography         | unpasswd      | 200     |❌ |
+| [MULTI](./Cryptography/MULTI.md)                                   | Cryptography         |unpasswd      | 200    |❌ |
 | [VUITTON](./Cryptography/VUITTON.md)                                         | Cryptography           | unpasswd   | 200     | ✅|
-| [Split RSA](./Cryptography/Split-RSA.md)                                           | Cryptography           | 5c0r7     | 200    |
-| [Message Cipher](./Cryptography/Message-Cipher.md)                                     | Cryptography           | 5c0r7   | 200    |
-| [Malware](./Cryptography/Malware.md)                           | Cryptography           | 5c0r7     | 200    |
-| [Clef de l'Histoire](./Cryptography/Clef-de-l'Histoire.md)                          | Cryptography           | R!md0r     | 200    |
-| [Hackerlab](./Cryptography/Hackerlab.md)                   | Cryptography           | W1z4rd     | 200    |
-| [MALCONDA](./Cryptography/MALCONDA.md)                 | Cryptography       | unpasswd      | 200    |
-| [FASHION](./Cryptography/FASHION.md)                                         |Cryptography        | unpasswd   | 500    |
-| [DEZOR](./Cryptography/DEZOR.md)                    | Cryptography       | unpasswd     | 500    |
-| [EGBLEMANKOU](./Cryptography/EGBLEMANKOU.md)                                         |Cryptography       | unpasswd    | 500    |
+| [Split RSA](./Cryptography/Split-RSA.md)                                           | Cryptography           | 5c0r7     | 200    |❌ |
+| [Message Cipher](./Cryptography/Message-Cipher.md)                                     | Cryptography           | 5c0r7   | 200    |❌ |
+| [Malware](./Cryptography/Malware.md)                           | Cryptography           | 5c0r7     | 200    |❌ |
+| [Clef de l'Histoire](./Cryptography/Clef-de-l'Histoire.md)                          | Cryptography           | R!md0r     | 200    |❌ |
+| [Hackerlab](./Cryptography/Hackerlab.md)                   | Cryptography           | W1z4rd     | 200    |❌ |
+| [MALCONDA](./Cryptography/MALCONDA.md)                 | Cryptography       | unpasswd      | 200    |❌ |
+| [FASHION](./Cryptography/FASHION.md)                                         |Cryptography        | unpasswd   | 500    |❌ |
+| [DEZOR](./Cryptography/DEZOR.md)                    | Cryptography       | unpasswd     | 500    |❌ |
+| [EGBLEMANKOU](./Cryptography/EGBLEMANKOU.md)                                         |Cryptography       | unpasswd    | 500    |❌ |
 | [Warmup 1](./PWN/Warmup-1.md)                           | PWN       |  W1z4rd    | 30    | ✅|
-| [Warmup 2](./PWN/Warmup-2.md)                                  | PWN      |W1z4rd      | 70     |
-| [Shellcode Executor](./PWN/Shellcode-Executor.md)                                      | PWN      | 5c0r7   | 200     |
-| [GANKPAMÈ2](./PWN/GANKPAMÈ2.md)                       | PWN | 5c0r7   | 500     |
-| [Dark Hackerlab](./PWN/Dark-Hackerlab.md)  | PWN | 5c0r7       | 500     |
-| [Rop-Fû vs Kung-Fû](./PWN/Rop-Fu-Vs-Kung-Fu.md)                   | PWN | W1z4rd       | 500     |
-| [INIT](./PWN/INIT.md)   | PWN |  5c0r7      | 500    |
-| [DɔkunXɔsu Internal System](./PWN/DɔkunXɔsu-Internal-System.md)              | PWN | W1z4rd       | 500    |
-| [Flash Artefact](./PWN/Flash-Artefact.md)                                         | PWN           | R!md0r   | 500     |
-| [Mr. Cat, I farted](./Misc/Mr.Cat,I-farted.md)                                     | Misc           | W1z4rd   | 30     |
-| [Ricky](./Misc/Ricky.md)                                   | Misc           | W1z4rd     | 30     |
-| [DesiGn](./Misc/DesiGn.md)                         | Misc           |  r3s0lv3r     | 70    |
-| [M3ssage](./Misc/M3ssage.md)                                     | Misc           | unpasswd   | 70    |
-| [Rabbit](./Misc/Rabbit.md)                                           | Misc           | 5c0r7   | 70    |
-| [Admin bot](./Misc/Adminbot.md)                                           | Misc           | 5c0r7   | 200    |
-| [L0giC](./Misc/L0giC.md)                          | Misc           | r3s0lv3r      | 200    |
-| [NotBase](./Misc/NotBase.md)                              | Misc           | unpasswd      | 200    |
-| [Nùkanbyɔ](./Misc/Nùkanbyɔ.md)                               | Misc           | W1z4rd      | 500    |
-| [Drôle de chiffrement](./Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |
-| [Hacker bot](./Reverse/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |
-| [Fake](./Reverse/Fake.md)                                  | Reverse     | 5c0r7     | 30     |
-| [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |
-| [LOR](./Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |
-| [Custom Encryption](./Reverse/Custom-Encryption.md)  | Reverse | Hum4n       | 70     |
-| [RandomisRandom](./Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |
-| [siká-netic](./Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |
-| [May Day](./Reverse/MayDay.md)              | Reverse | W1z4rd        | 200    |
-| [Couvent des Initiés](./Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |
-| [Connect You](./Web/ConnectYou.md)                                     | Web           | 5c0r7    | 70     |
-| [Source](./Web/Source.md)                                   | Web           | 5c0r7      | 70     |
-| [FAKE_POWER](./Web/FAKE_POWER.md)                         | Web           | unpasswd      | 70    |
-| [Baby-hunter: cookies](./Web/Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |
-| [Upload me](./Web/Upload-me.md)                                           | Web           | Hum4n   | 70    |
-| [Baby-hunter1: rodi](./Web/Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |
-| [Refff](./Web/Refff.md)                          | Web           |  Hum4n     | 200    |
-| [Bazik-node](./Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |
-| [Les trésors](./Web/Les-trésors.md)                               | Web           |  Hum4n     | 200    |
-| [PHP2](./Web/PHP2.md)                               | Web           |  5c0r7      | 200    |
-| [MAINTENANCE](./Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |
-| [Prize Hunter](./Web/Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |
-| [DIN](./Web/DIN.md)                                  | Web      | unpasswd      | 200     |
-| [DJUDA](./Web/DJUDA.md)                                      | Web      | unpasswd   | 200     |
-| [Baby-hunter2:covid is back](./Web/Baby-hunter2-covid-is-back.md)                       | Web | W1z4rd   | 200     |
-| [Mission2](./Web/Mission2.md)  | Web | 5c0r7        | 200     |
-| [MESSAGE](./Web/MESSAGE.md)                   | Web | unpasswd       | 200     |
-| [Baby-hunter3: forbidden](./Web/Baby-hunter3-forbidden.md)   | Web | W1z4rd       | 200    |
-| [Renderer 1](./Web/Renderer-1.md)              | Web | 5c0r7       | 200    |
-| [Sn4p-Sh0t](./Web/Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |
-| [GARDIEN](./Web/GARDIEN.md)                                     | Web           | unpasswd   | 500     |
-| [Renderer 2](./Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     |
-| [RFE](./Web/RFE.md)                         | Web           |  5c0r7      | 500    |
-| [ABRACADABRAaa](./Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |
-| [Investigation 1](./Forensic/Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |
-| [Forensic 1](./Forensic/Forensic-1.md)                                           | Forensic           | r3s0lv3r   | 70    |
-| [Investigation 2](./Forensic/Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |
-| [Investigation 3](./Forensic/Investigation-3.md)                              | Forensic           | Hum4n      | 70    |
-| [Forensic 2](./Forensic/Forensic-2.md)                               | Forensic           | r3s0lv3r      | 70    |
-| [Artefact](./Forensic/Artefact.md)                       | Forensic |W1z4rd   | 70     |
+| [Warmup 2](./PWN/Warmup-2.md)                                  | PWN      |W1z4rd      | 70     |❌ |
+| [Shellcode Executor](./PWN/Shellcode-Executor.md)                                      | PWN      | 5c0r7   | 200     |❌ |
+| [GANKPAMÈ2](./PWN/GANKPAMÈ2.md)                       | PWN | 5c0r7   | 500     |❌ |
+| [Dark Hackerlab](./PWN/Dark-Hackerlab.md)  | PWN | 5c0r7       | 500     |❌ |
+| [Rop-Fû vs Kung-Fû](./PWN/Rop-Fu-Vs-Kung-Fu.md)                   | PWN | W1z4rd       | 500     |❌ |
+| [INIT](./PWN/INIT.md)   | PWN |  5c0r7      | 500    |❌ |
+| [DɔkunXɔsu Internal System](./PWN/DɔkunXɔsu-Internal-System.md)              | PWN | W1z4rd       | 500    |❌ |
+| [Flash Artefact](./PWN/Flash-Artefact.md)                                         | PWN           | R!md0r   | 500     |❌ |
+| [Mr. Cat, I farted](./Misc/Mr.Cat,I-farted.md)                                     | Misc           | W1z4rd   | 30     |❌ |
+| [Ricky](./Misc/Ricky.md)                                   | Misc           | W1z4rd     | 30     |❌ |
+| [DesiGn](./Misc/DesiGn.md)                         | Misc           |  r3s0lv3r     | 70    |❌ |
+| [M3ssage](./Misc/M3ssage.md)                                     | Misc           | unpasswd   | 70    |❌ |
+| [Rabbit](./Misc/Rabbit.md)                                           | Misc           | 5c0r7   | 70    |❌ |
+| [Admin bot](./Misc/Adminbot.md)                                           | Misc           | 5c0r7   | 200    |❌ |
+| [L0giC](./Misc/L0giC.md)                          | Misc           | r3s0lv3r      | 200    |❌ |
+| [NotBase](./Misc/NotBase.md)                              | Misc           | unpasswd      | 200    |❌ |
+| [Nùkanbyɔ](./Misc/Nùkanbyɔ.md)                               | Misc           | W1z4rd      | 500    |❌ |
+| [Drôle de chiffrement](./Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |❌ |
+| [Hacker bot](./Reverse/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |❌ |
+| [Fake](./Reverse/Fake.md)                                  | Reverse     | 5c0r7     | 30     |❌ |
+| [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |❌ |
+| [LOR](./Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |❌ |
+| [Custom Encryption](./Reverse/Custom-Encryption.md)  | Reverse | Hum4n       | 70     |❌ |
+| [RandomisRandom](./Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |❌ |
+| [siká-netic](./Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |❌ |
+| [May Day](./Reverse/MayDay.md)              | Reverse | W1z4rd        | 200    |❌ |
+| [Couvent des Initiés](./Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |❌ |
+| [Connect You](./Web/ConnectYou.md)                                     | Web           | 5c0r7    | 70     |❌ |
+| [Source](./Web/Source.md)                                   | Web           | 5c0r7      | 70     |❌ |
+| [FAKE_POWER](./Web/FAKE_POWER.md)                         | Web           | unpasswd      | 70    |❌ |
+| [Baby-hunter: cookies](./Web/Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |❌ |
+| [Upload me](./Web/Upload-me.md)                                           | Web           | Hum4n   | 70    |❌ |
+| [Baby-hunter1: rodi](./Web/Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |❌ |
+| [Refff](./Web/Refff.md)                          | Web           |  Hum4n     | 200    |❌ |
+| [Bazik-node](./Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |❌ |
+| [Les trésors](./Web/Les-trésors.md)                               | Web           |  Hum4n     | 200    |❌ |
+| [PHP2](./Web/PHP2.md)                               | Web           |  5c0r7      | 200    |❌ |
+| [MAINTENANCE](./Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |❌ |
+| [Prize Hunter](./Web/Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |❌ |
+| [DIN](./Web/DIN.md)                                  | Web      | unpasswd      | 200     |❌ |
+| [DJUDA](./Web/DJUDA.md)                                      | Web      | unpasswd   | 200     |❌ |
+| [Baby-hunter2:covid is back](./Web/Baby-hunter2-covid-is-back.md)                       | Web | W1z4rd   | 200     |❌ |
+| [Mission2](./Web/Mission2.md)  | Web | 5c0r7        | 200     |❌ |
+| [MESSAGE](./Web/MESSAGE.md)                   | Web | unpasswd       | 200     |❌ |
+| [Baby-hunter3: forbidden](./Web/Baby-hunter3-forbidden.md)   | Web | W1z4rd       | 200    |❌ |
+| [Renderer 1](./Web/Renderer-1.md)              | Web | 5c0r7       | 200    |❌ |
+| [Sn4p-Sh0t](./Web/Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |❌ |
+| [GARDIEN](./Web/GARDIEN.md)                                     | Web           | unpasswd   | 500     |❌ |
+| [Renderer 2](./Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     |❌ |
+| [RFE](./Web/RFE.md)                         | Web           |  5c0r7      | 500    |❌ |
+| [ABRACADABRAaa](./Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |❌ |
+| [Investigation 1](./Forensic/Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |❌ |
+| [Forensic 1](./Forensic/Forensic-1.md)                                           | Forensic           | r3s0lv3r   | 70    |❌ |
+| [Investigation 2](./Forensic/Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |❌ |
+| [Investigation 3](./Forensic/Investigation-3.md)                              | Forensic           | Hum4n      | 70    |❌ |
+| [Forensic 2](./Forensic/Forensic-2.md)                               | Forensic           | r3s0lv3r      | 70    |❌ |
+| [Artefact](./Forensic/Artefact.md)                       | Forensic |W1z4rd   | 70     |❌ |
 | [Intrusion](./Forensic/Intrusion.md)  | Forensic | W1z4rd       | 70     |✅|
-| [QR](./Forensic/QR.md)                   | Forensic |  W1z4rd      | 200     |
+| [QR](./Forensic/QR.md)                   | Forensic |  W1z4rd      | 200     |❌ |
 | [Last Action](./Forensic/Last-Action.md)   | Forensic |W1z4rd     | 200    |✅|
-| [show_me](./Forensic/show_me.md)              | Forensic | unpasswd       | 200    |
-| [Forensic 3](./Forensic/Forensic-3.md)                                         | Forensic           | r3s0lv3r     | 200     |
-| [weird lsb](./Forensic/weird-lsb.md)                                     | Forensic           |5c0r7    | 200     |
-| [zǐnflú](./Forensic/zǐnflú.md)                                   | Forensic           | W1z4rd      | 500     |
+| [show_me](./Forensic/show_me.md)              | Forensic | unpasswd       | 200    |❌ |
+| [Forensic 3](./Forensic/Forensic-3.md)                                         | Forensic           | r3s0lv3r     | 200     |❌ |
+| [weird lsb](./Forensic/weird-lsb.md)                                     | Forensic           |5c0r7    | 200     |❌ |
+| [zǐnflú](./Forensic/zǐnflú.md)                                   | Forensic           | W1z4rd      | 500     |❌ |
