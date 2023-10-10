@@ -1,6 +1,6 @@
 #### Categorie: Forensic 
 #### **Author**: W1z4rd
-#### Solve: 17/20 
+#### Solve: 18/20 
 #### Points: 200 pts (at first)| 120 pts (at end)
 #### Files: [NTUSER.DAT](./Forensic/Files/NTUSER.DAT.copy0)   
 #### Write-up by: Amoweak ([Amoweak](https://))
