@@ -1,5 +1,5 @@
 #### Categorie: Forensic 
-#### **Author**: W1z4rd
+#### **Author**: Hum4n
 #### Solve: 17/20 
 #### Points: 70 pts (at first)| 53 pts (at end)
 #### Files: [Dum_forensic.mem]([https://mega.nz/file/sxEmxAhK#2FLrWfkCOlFZeU9Ats7fyDjoyN6ngF3wjAD4HsbSheU](https://mega.nz/file/sxEmxAhK#2FLrWfkCOlFZeU9Ats7fyDjoyN6ngF3wjAD4HsbSheU))   (1GB)
@@ -29,6 +29,11 @@ Déjà avec le **« .mem »**  sans même vérifier le type du fichier, on a p
 > CheatSheet : `https://github.com/Tednoob17/h4cker/blob/master/cheat_sheets/volatility-memory-forensics-cheat-sheet.pdf` 
 
 Et donc on a listé la liste des processus récupérables avec l’outil :
+
+```bash
+./vol.py -f ../../Dump_forensic.mem windows.golist.PsList
+```
+
 ![vu](Images/for1.png)
 Sans grande difficulté, on remarque toute de suite de quel processus il s’agit avec les mots clés « **ExitTime » et « CreateTime »** .
 
@@ -53,6 +58,10 @@ Already with the **“.mem”** without even checking the file type, we thought 
 > CheatSheet : `https://github.com/Tednoob17/h4cker/blob/master/cheat_sheets/volatility-memory-forensics-cheat-sheet.pdf` 
 
 And so we have listed the list of processes recoverable with the tool:
+
+```bash
+./vol.py -f ../../Dump_forensic.mem windows.golist.PsList
+```
 
 ![vu](Images/for1.png)
 Without much difficulty, we immediately notice which process it is with the keywords “**ExitTime” and “CreateTime”**.
