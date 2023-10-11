@@ -14,6 +14,7 @@ A software was started and immediately closed. What's the name of this one?
 
 
 - ### Write-Ups
+
   ### FR Version
   ![show](Images/invest1.png)
 
