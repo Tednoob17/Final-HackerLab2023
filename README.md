@@ -26,7 +26,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 **Total : 95 Challenges**   
 
 🎯 **Cliquez sur le nom d'un challenge pour lire son Write-up**     
-*Progress Bar* : 
+*Progress Bar* :    
 **[>>>>>> ...............................................................................]**  
 
 
