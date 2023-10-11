@@ -80,7 +80,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Drôle de chiffrement](./Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |❌ |
 | [Hacker bot](./Reverse/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |❌ |
 | [Fake](./Reverse/Fake.md)                                  | Reverse     | 5c0r7     | 30     |❌ |
-| [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |❌ |
+| [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |✅ |
 | [LOR](./Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |❌ |
 | [Custom Encryption](./Reverse/Custom-Encryption.md)  | Reverse | Hum4n       | 70     |❌ |
 | [RandomisRandom](./Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |❌ |

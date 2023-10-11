@@ -3,24 +3,21 @@
 #### Solve: 3/20 
 #### Points: 30 pts (at first)| 24 pts (at end)
 #### File: [agba](./Files/agba)    
+
+**FLAG** : CTF_**[A-Za-z0-9]**
 #### Write-up by: Ov3rc0m3r ([Ov3rc0m3r](https://))
 
+#### **[FR]**
+Une erreur de débutant ?
+#### **[EN]**
 
+A beginner's mistake ?
 
 ### Write-up
 
 ### FR Version 
 
-
-
-
-
-
-
-
-
-
-
+![beg](Images/beginner.png)
 
 Lorsqu'on télécharge le fichier associé au challenge et qu'on le décompile grâce à **Hex-Rays,** (tout autre decompileur fait l'affaire) on a les instructions de la focntion main suivante:
 ![excode](Images/excode.png) 
@@ -102,7 +99,7 @@ Flag : `CTF_N0C0N57r41N750NCr3471V17Y`
 ------------------------------------------------------------------
 
 ### EN Version 
-
+![beg](Images/beginner.png)
 
 
 When you download the file associated with the challenge and decompile it using **Hex-Rays,** (any other decompiler will do), you get the following main function instructions:
