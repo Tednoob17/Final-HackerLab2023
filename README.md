@@ -113,7 +113,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [ABRACADABRAaa](./Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |❌ |
 | [Investigation 1](./Forensic/Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |✅ |
 | [Forensic 1](./Forensic/Forensic-1.md)                                           | Forensic           | r3s0lv3r   | 70    |❌ |
-| [Investigation 2](./Forensic/Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |❌ |
+| [Investigation 2](./Forensic/Investigation-2.md)                          | Forensic           |  Hum4n     | 70    |✅ |
 | [Investigation 3](./Forensic/Investigation-3.md)                              | Forensic           | Hum4n      | 70    |❌ |
 | [Forensic 2](./Forensic/Forensic-2.md)                               | Forensic           | r3s0lv3r      | 70    |❌ |
 | [Artefact](./Forensic/Artefact.md)                       | Forensic |W1z4rd   | 70     |❌ |

@@ -1,7 +1,7 @@
 #### Categorie: Reverse 
 #### **Author**: unpasswd
-#### Solve: 3/20 
-#### Points: 30 pts (at first)| 24 pts (at end)
+#### Solve: 2/20 
+#### Points: 30 pts (at first)| 29 pts (at end)
 #### File: [agba](./Files/agba)    
 
 **FLAG** : CTF_**[A-Za-z0-9]**
