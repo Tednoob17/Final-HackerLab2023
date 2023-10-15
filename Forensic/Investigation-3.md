@@ -3,7 +3,7 @@
 #### Solve: 14/20 
 #### Points: 70 pts (at first)| 57 pts (at end)
 #### Files: [Dump_forensic.mem]([https://mega.nz/file/sxEmxAhK#2FLrWfkCOlFZeU9Ats7fyDjoyN6ngF3wjAD4HsbSheU](https://mega.nz/file/sxEmxAhK#2FLrWfkCOlFZeU9Ats7fyDjoyN6ngF3wjAD4HsbSheU))   (1GB)
-#### Write-up by: Amoweak ([Amoweak](https://)) 
+#### Write-up by: Amoweak ([Amoweak](https://tweeter/sinaamand05)) 
 
 ### Flag Format : CTF_**[A-Za-z]**  
 

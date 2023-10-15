@@ -3,7 +3,7 @@
 #### Solve: 17/20 
 #### Points: 70 pts (at first)| 54 pts (at end)
 #### Files: [Dump_forensic.mem]([https://mega.nz/file/sxEmxAhK#2FLrWfkCOlFZeU9Ats7fyDjoyN6ngF3wjAD4HsbSheU](https://mega.nz/file/sxEmxAhK#2FLrWfkCOlFZeU9Ats7fyDjoyN6ngF3wjAD4HsbSheU))    (1GB)
-#### Write-up by: Amoweak ([Amoweak](https://)) 
+#### Write-up by: Amoweak ([Amoweak](https://tweeter/sinaamand05))  
 
 ### Flag Format : CTF_**[A-Za-z]**  
 #### **[FR]**
@@ -62,6 +62,7 @@ Thanks to the site **“[HackTricks](https://book.hacktricks.xyz/welcome/readme)
 But it didn't do anything good...
 
 So, we thought to look further. We came across the plugin **“Windows.cmdline.CmdLine”**, which allows you to check whether a plugin has been executed maliciously or not. So we said to ourselves that if a file is launched by a program, we could identify it in this list. We then tried the plugin which gave us this result.
+
 ```bash
 ./vol.py -f ../../Dump_forensic.mem Windows.cmdline.CmdLine
 ```
