@@ -3,7 +3,7 @@
 #### Solve: 18/20 
 #### Points: 200 pts (at first)| 120 pts (at end)
 #### Files: [NTUSER.DAT](./Forensic/Files/NTUSER.DAT.copy0)   
-#### Write-up by: Amoweak ([Amoweak](https://))
+#### Write-up by: Amoweak ([Amoweak](https://twitter.com/sinaamand05))
 #### Description :
 #### **[FR]**
 L'équipe d'investigation en réponse aux incidents (IR) des gardiens des trésors a mené une opération de perquisition chez un membre du groupe DokounXosu.

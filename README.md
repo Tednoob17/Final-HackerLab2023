@@ -39,7 +39,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Atinkpòn](./Steganography/Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |❌ |
 | [Art of hiding: IDAT](./Steganography/Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |❌ |
 | [Nùxoxo](./Steganography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |❌ |
-| [V3rt](./Steganography/V3rt)                                    | Steganography        | Hum4n | 500    |❌ |
+| [V3rt](./Steganography/V3rt.md)                                    | Steganography        | Hum4n | 500    |❌ |
 | [Quelques traits dans ma lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |❌ |
 | [Atom](./Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |❌ |
 | [Transpose](./Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |❌ |
