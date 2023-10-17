@@ -2,8 +2,8 @@
 #### **Author**: r3s0lv3r
 #### Solve: 12/20 
 #### Points: 200 pts (at first)|  145 pts (at end)
-#### Files: [fix_me.png]()   
-#### Write-up by: 
+#### Files: [fix_me.png](./Files/fix_me.png)   
+#### Write-up by: [0xJekyll](https://twitter.com/Ted_Kouhouenou) 
 ### Flag Format : CTF_**[A-Za-z]**  
 #### Description :
 #### **[FR]**
