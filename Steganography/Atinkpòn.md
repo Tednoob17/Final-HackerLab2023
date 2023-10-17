@@ -129,9 +129,9 @@ file fix_me.png
 
 ![file](Images/file.png)
 
-D'après ce qu'on peut constater il s'agit d'un fichier **gzip** donc il s'agit d'un fichier avec l'extension `.tar.gz'
+As far as we can see, it's a **gzip** file, so it's a file with the extension `.tar.gz'.
 
-Par réflexe, nous décidons de vérifier l'entête du fichier avec `xxd` (` hexdump`  fait aussi l'affaire)
+By reflex, we decide to check the file header with `xxd` (` hexdump` also does the trick)
 
 ```bash
 xxd fix_me.png
@@ -139,32 +139,32 @@ xxd fix_me.png
 
 ![fakeformat](Images/hex.png)
 
-Donc après les deux précédentes observations, nous remarquons que nous avons un fichier au format `.tar.gz` mais dont l'entête a été modifie de manière a faire croire qu'il s'agit d'un fichier au format'.png` , n'oublions pas ceci "Sous Linux, tout est fichier"
+So, after the two previous observations, we notice that we have a file in `.tar.gz` format, but whose header has been modified to make it look like a `.png` file, remembering that "Under Linux, everything is a file".
 
-Nous devons donc corriger  l'entête du fichier en question, pour cela nous nous renseignons sur l'entête exacte d'un fichier `.tar.gz` 
-Apres quelques recherches nous avons un exemple de l'entête d'un fichier `.tar.gz`
+We therefore need to correct the header of the file in question. To do this, we need to find out the exact header of a `.tar.gz` file. 
+After some research, we have an example of a `.tar.gz` file header
 
 `1f8b 0800 0000 0000 0003' 
 
-Nous voyons clairement la différence entre les deux entêtes et décidons de corriger l'entête du fichier avec `hexedit`
+We clearly see the difference between the two headers and decide to correct the file header with `hexedit`. 
 
 ![hexedit](Images/hexedit.png)
 
-Après modification, nous obtenons ceci
+After modification, we obtain the following
 
 ![after](Images/after.png)
 
-Nous enregistrons et quittons avec "CTRL +x" 
+We save and exit with "CTRL +x". 
 
-Nous pouvons maintenant extraire le/les fichiers de l'archive avec 
+We can now extract the file(s) from the archive with 
 ```bash
 tar -xvf fix_me.jpg
 ```
 
 ![yess](Images/extract.png)
-Nous remarquons que d'autres images se trouvent dans l'archive 
-Examinons chacun d'eux pour voir 
-Apres fouilles, nous observons une chose assez intéressante dans l'une des images obtenues. Nous avons fait un `string` sur l'image et nous avons un **Ascii  Art** plutôt bizarre.
+We note that there are other images in the archive 
+Let's have a look at each of them 
+After some digging, we notice something rather interesting in one of the images we obtained. We did a `string` on the image and we have a rather bizarre **Ascii Art**.
 
 ![art](Images/ascii.png)
 ```bash
@@ -201,15 +201,15 @@ Apres fouilles, nous observons une chose assez intéressante dans l'une des imag
 
 ```   
 
-Direction [Cyberchef](https://gchq.github.io/CyberChef/), en premier lieu, nous avons décidé de retirer tous les nombres différents de `0`et de `1' mais n'avons rien obtenu de potable.
-Normalement le principe d'un ascii art, c'est d'utiliser un certain nombre de caractères (assez limite entre 2 et 5) pour représenter une image dans notre cas Les chiffres qui reviennent le plus souvent sont `0`, `1` , `4`  et `7` tout les autres chiffres sont peut être donc la clef.Mais comme on le sait tous, la plupart des challs étant du *guessing*, nous décidons de demander un Hint.
-Et il se fait que nous sommes sur la bonne voie, ce qui veut dire que tous les chiffres se trouvant à l'opposé symétriquement des `0 du centre sont la clef.
+Direction [Cyberchef](https://gchq.github.io/CyberChef/), first of all, we decided to remove all the numbers other than `0` and `1', but didn't get anything drinkable.
+Normally, the principle of ascii art is to use a certain number of characters (fairly limited to between 2 and 5) to represent an image, in our case. The numbers that come up most often are `0', `1', `4' and `7', so the other numbers may be the key. But as we all know, most challs are *guessing*, so we decided to ask for a Hint.
+And it turns out that we're on the right track, which means that all the numbers symmetrically opposite the `0 in the center are the key.
 
 ![guessing](Images/gues.jpeg) 
 
-Nous retirons alors tous les chiffres superflus et de garder ceux se trouvant dans la zone rouge, nous avons alors :
+We then remove all superfluous digits and keep those in the red zone, so we have :
 `4354465f4421675f4630725f3768335f48216464336e5f476f6c64336e5f3772333424757233`
-Ces caractères sont sûrement de l'hexadécimal, nous obtenons ceci après déchiffrement
+These characters are surely hexadecimal, so we obtain the following after decryption
 
 `CTF_D!g_F0r_7h3_H!dd3n_Gold3n_7r34$ur3`
 
