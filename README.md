@@ -35,7 +35,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Listen](./Steganography/Listen.md)                                    | Steganography          | Hum4n   | 30     |❌ |
 | [Custom](./Steganography/Custom.md)                                            | Steganography          | 5c0r7   | 70     |❌ |
 | [MysteriousLetter](./Steganography/MysteriousLetter.md)                                    | Steganography        | r3s0lv3r   | 70     |✅ |
-| [Atinkpòn](./Steganography/Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |❌ |
+| [Atinkpòn](./Steganography/Atinkpòn.md)                                        | Steganography        | r3s0lv3r   | 200     |✅ |
 | [Art of hiding: IDAT](./Steganography/Art-of-hiding-IDAT.md)                              | Steganography        | 5c0r7   | 200     |❌ |
 | [Nùxoxo](./Steganography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |❌ |
 | [V3rt](./Steganography/V3rt.md)                                    | Steganography        | Hum4n | 500    |❌ |
