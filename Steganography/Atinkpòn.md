@@ -201,9 +201,9 @@ After some digging, we notice something rather interesting in one of the images 
 
 ```   
 
-Direction [Cyberchef](https://gchq.github.io/CyberChef/), first of all, we decided to remove all the numbers other than `0` and `1', but didn't get anything drinkable.
-Normally, the principle of ascii art is to use a certain number of characters (fairly limited to between 2 and 5) to represent an image, in our case. The numbers that come up most often are `0', `1', `4' and `7', so the other numbers may be the key. But as we all know, most challs are *guessing*, so we decided to ask for a Hint.
-And it turns out that we're on the right track, which means that all the numbers symmetrically opposite the `0 in the center are the key.
+Direction [Cyberchef](https://gchq.github.io/CyberChef/), first of all, we decided to remove all the numbers other than `0` and `1`, but didn't get anything drinkable.
+Normally, the principle of ascii art is to use a certain number of characters (fairly limited to between 2 and 5) to represent an image, in our case. The numbers that come up most often are `0`, `1`, `4` and `7`, so the other numbers may be the key. But as we all know, most challs are *guessing*, so we decided to ask for a Hint.
+And it turns out that we're on the right track, which means that all the numbers symmetrically opposite the `0` in the center are the key.
 
 ![guessing](Images/gues.jpeg) 
 
