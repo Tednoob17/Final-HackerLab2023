@@ -98,9 +98,9 @@ Apres fouilles, nous observons une chose assez intéressante dans l'une des imag
 
 ```   
 
-Direction [Cyberchef](https://gchq.github.io/CyberChef/), en premier lieu, nous avons décidé de retirer tous les nombres différents de `0`et de `1' mais n'avons rien obtenu de potable.
-Normalement le principe d'un ascii art, c'est d'utiliser un certain nombre de caractères (assez limite entre 2 et 5) pour représenter une image dans notre cas Les chiffres qui reviennent le plus souvent sont `0`, `1` , `4`  et `7` tout les autres chiffres sont peut être donc la clef.Mais comme on le sait tous, la plupart des challs étant du *guessing*, nous décidons de demander un Hint.
-Et il se fait que nous sommes sur la bonne voie, ce qui veut dire que tous les chiffres se trouvant à l'opposé symétriquement des `0 du centre sont la clef.
+Direction [Cyberchef](https://gchq.github.io/CyberChef/), en premier lieu, nous avons décidé de retirer tous les nombres différents de `0`et de `1`  mais n'avons rien obtenu de potable.
+Normalement le principe d'un ascii art, c'est d'utiliser un certain nombre de caractères (assez limite entre 2 et 5) pour représenter une image dans notre cas Les chiffres qui reviennent le plus souvent sont `0`  , `1`  , `4`   et `7`  tout les autres chiffres sont peut être donc la clef.Mais comme on le sait tous, la plupart des challs étant du *guessing*, nous décidons de demander un Hint.
+Et il se fait que nous sommes sur la bonne voie, ce qui veut dire que tous les chiffres se trouvant à l'opposé symétriquement des `0` du centre sont la clef.
 
 ![guessing](Images/gues.jpeg) 
 
