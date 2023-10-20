@@ -74,7 +74,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Mr. Cat, I farted](./Misc/Mr.Cat,I-farted.md)   | Misc           | W1z4rd   | 30     |❌ |
 | [5ive](./Misc/5ive.md)   | Misc           | 5c0r7   | 30     | ✅|
 | [Ricky](./Misc/Ricky.md)                                   | Misc           | W1z4rd     | 30     |❌ |
-| [DesiGn](./Misc/DesiGn.md)                         | Misc           |  r3s0lv3r     | 70    |❌ |
+| [DesiGn](./Misc/DesiGn.md)                         | Misc           |  r3s0lv3r     | 70    |✅ |
 | [M3ssage](./Misc/M3ssage.md)                                     | Misc           | unpasswd   | 70    |❌ |
 | [Rabbit](./Misc/Rabbit.md)                                           | Misc           | 5c0r7   | 70    |❌ |
 | [Admin bot](./Misc/Adminbot.md)                                           | Misc           | 5c0r7   | 200    |❌ |
