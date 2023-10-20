@@ -27,7 +27,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 
 🎯 **Cliquez sur le nom d'un challenge pour lire son Write-up**     
 *Progress Bar* :    
-**[>>>>>>>>>>....................................................................................]**  
+**[>>>>>>>>>>>...................................................................................]**  
 
 
 | Nom                                                              | Catégorie     | Auteur     | Points | Done   |
@@ -77,7 +77,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [M3ssage](./Misc/M3ssage.md)                                     | Misc           | unpasswd   | 70    |❌ |
 | [Rabbit](./Misc/Rabbit.md)                                           | Misc           | 5c0r7   | 70    |❌ |
 | [Admin bot](./Misc/Adminbot.md)                                           | Misc           | 5c0r7   | 200    |❌ |
-| [L0giC](./Misc/L0giC.md)                          | Misc           | r3s0lv3r      | 200    |❌ |
+| [L0giC](./Misc/L0giC.md)                          | Misc           | r3s0lv3r      | 200    |✅ |
 | [NotBase](./Misc/NotBase.md)                              | Misc           | unpasswd      | 200    |❌ |
 | [Nùkanbyɔ](./Misc/Nùkanbyɔ.md)                               | Misc           | W1z4rd      | 500    |❌ |
 | [Drôle de chiffrement](./Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |❌ |
@@ -86,7 +86,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |✅ |
 | [LOR](./Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |❌ |
 | [Custom Encryption](./Reverse/Custom-Encryption.md)  | Reverse | Hum4n       | 70     |❌ |
-| [RandomisRandom](./Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |❌ |
+| [RandomisRandom](./Reverse/RandomisRandom.md)                   |Reverse  | 5c0r7       | 70     |✅ |
 | [siká-netic](./Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |❌ |
 | [May Day](./Reverse/MayDay.md)              | Reverse | W1z4rd        | 200    |❌ |
 | [Couvent des Initiés](./Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |❌ |
