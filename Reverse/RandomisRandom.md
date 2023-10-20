@@ -217,3 +217,206 @@ Le flag est donc : `CTF_@lw4yS_1ni7iaLiZe_s3@nD_TiMe_Nu!!` `
 Comme on peut le voir les gardiens des trésors devraient penser à aimer le hasard :)
 Merci !!!!!
 Flag : `CTF_@lw4yS_1ni7iaLiZe_s3@nD_TiMe_Nu!!` 
+
+-----------------------------------------------------------------------
+
+### En Version
+
+
+
+![rand](Images/random.png)
+A reverse challenge, the title already spoke to me, Randmisandom, I felt that we
+will face a challenge involving a function to produce numbers
+random. A quick reading of the description of the challenge makes me surely say that
+the random will be guessable (we can guess) since we are told that the guards of
+treasures don't like chance!
+Good good good, What if we got our hands dirty??
+First reflex, once the challenge file has been downloaded, let's grant it the
+permissions required for its execution as follows:
+
+![r](Images/s1.png)
+So we can execute it: 
+![maki](Images/s2.png)
+
+Ah! Its execution requires a certain password, so I run it again this time
+with a completely fictitious password:
+![maki](Images/s3.png)
+I get the message, wrong password, damn! I understood a little :)
+It's reverse, so what's better than using a reverse tool like Ghidra
+to better analyze the source code!
+For those who don't know, ghidra is simply a tool (one of the best)
+used in the world of reverse, it allows us to decompile programs to
+have a code that is close to the original source code of our program code!
+Here we go !
+Using ghidra is super intuitive, so you won't have trouble uploading
+your binary (the challenge file)
+On the left, in the `Functions` pane, I look for the main function `main`:
+
+![maki](Images/s4.png)
+
+Bingo!
+![cry](Images/ru.png)
+Here is our main function, It is not difficult to understand and asks the
+at least a little knowledge of coding. We can therefore observe in the 7th line
+that the function checks if at least one argument is passed as parameters, in the case
+otherwise it displays the text: **[+]Usage: ./source password**
+(If you remember, this is the same message we got during our first call to the binary!).
+
+Then on line `11`, a variable `sVar1` to which we assign the value of the number of
+characters entered by the user, then on line `12`, we check if the variable `sVar1`
+so the user's character count is equal to `0x25` in hexadecimal, a
+quick calculation with my calculator on my computer gives me `37` decimal as
+in the following figure: 
+![cry](Images/s6.png)
+So we need to enter our password such that it has `37`
+characters ! Otherwise, we are shown: Wrong password as it says
+line `16`.
+A clue to find, we're making good progress, don't you think?? :)
+Well, we continue reading the code, then at line `13`, if the number of characters
+is good i.e. equal to `37`, the `randomisrandom` function is called!!!
+To display the content of this function, nothing could be simpler, double click on its
+name !
+![jun](Images/s7.png)
+Are you scared yet? No need, we scroll down to analyze our code
+On line, `94`, which retains my intention, I notice that if our password does not
+does not respect certain conditions, we will be shown **Wrong password!** 
+
+![der](Images/s8.png)
+
+VBetter to check this condition than to analyze the entire code!
+This line gets the first character of our password, then converts it to
+int, then does an `XOR` with the value of `uvar1` to then compare the final result to
+the element located in the array `local_a8` at the same position.
+It does the same thing with the second element of our password which will be compared
+to the second element of `local_a8` , then the same for the third element and
+so on until we finish our `37` elements.
+So what is `local_b4`? Quite simply an integer initialized to `0` at line `83` and which
+increments by `1` at line `98` each loop, its main purpose is to
+to be able to iterate through the local_a8 array and to be able to iterate through each character of
+our password!
+Then, `local_a8`, is an array initialized from line `46`! 
+![joe](Images/s9.png)
+Here we see that it only contains 4 elements, which in my opinion is not possible
+following our reasoning, I therefore tell myself that **Ghidra** made a small error of
+decompilation, because if you count from line `46` to line `82` 
+
+![frrrr](Images/s10.png)
+We notice that we have exactly `37` lines, in all simplicity, here is our
+local_a8 table with its values (Line `46` to line `82`)!
+The only component whose purpose we still don't know is `uvar1`!
+![i](Images/i.png)
+At line `45`, we notice that `uvar1` retrieves the value returned by the
+function `rand()`, a double click on the name of the function lets us see
+this :
+
+![freaky](Images/s11.png)
+
+Nothing very interesting, basically, a rand function is called and then the number
+chosen is stored in `uvar1`!
+But do you remember the description of the chall??
+![desc](Images/s12.png)
+So I doubt that the `rand()` function is truly random!
+All that remains is to check what its value is each time we run the
+code, nothing is more exciting than using gdb (It is a disassembler, which
+allows us to know how our binary is managed in memory)
+Do some research to better understand if you are new to the
+domain ! (ChatGPT is your friend!)
+
+Let's go!
+
+![bull](Images/s13.png)
+I use a gdb extension called gef, you can install it if necessary, nothing
+very complicated!
+We are going to launch our program by sending it a sequence of `37` characters
+as we saw for the randomisrandom function to be called!
+![GEF](Images/s14.png)
+Enter what you want but make sure you have `37` characters otherwise the function
+randomisrandom will not be called and therefore no `rand()` function
+![GEF](Images/s15.png)
+
+Normally this is not the right password :)
+Now we will observe how the randomisrandom function works
+in `gdb` . To do this we will put a breakpoint on this function:
+![GEF](Images/s16.png)
+**b= breakpoint**
+A breakpoint simply allows us to stop our program at a place
+precise during its execution!
+Enter r to start the program
+
+![soo](Images/s17.png)
+Then you will see
+
+![soo](Images/s18.png)
+The first red line shows us an arrow which tells us where the breakpoint was.
+been placed, the second line indicates the address of the current instruction of our function
+and finally the last one indicates what to do in assembly language :)
+Stay with me, our goal, don’t forget it, to see the value generated by
+`rand()` function. We are therefore going to head towards the instruction which corresponds to this
+snippet of code:
+![soo](Images/petit.png)
+
+Basically we will simply look for the call to the `rand()` function in gdb
+To do this we will use a ni command (next instruction) to go to
+the following instruction:
+![pave](Images/s19.png)
+
+Bingo! That works
+We notice that the call instruction (function call) of rand is not far away, we do
+so one nor until reaching it.
+![not](Images/s20.png)
+There you go, the arrow is at this level!
+Remember that its value is put in the variable `uvar1`
+We therefore move on to the following instruction with `ni`
+![battlecry](Images/21.png)
+We therefore see that just after the call to rand, there is a mov (move) of the value
+contained in the eax register in the `rbp-0xa8` register.
+Basically, if we want to see what is stored in rbp-0xa8, we need to let
+this instruction execute because currently we are on it, it does not know
+so not yet executing, eax has not yet been moved into `rbp-0xa8` . We let
+the instruction execute with `ni` 
+![battlecry](Images/22.png)
+The previous instruction underlined in red
+We can therefore access the value of `rbp-0xa8` by doing:
+![battlecry](Images/23.png)
+We therefore obtain its value: `0x6b8b4567`
+To check if we obtain this same result each time the program is executed, I
+repeat this same process 3 or 4 times, each time, you obtain the same value!
+BINGO! We have the rand, all that remains is to calculate….
+So we have, as I specified at the start:
+character_of_passowrd XOR `uvar1 = local_a8[local_b4]`
+So just pull the character_of_passowrd to have:
+`character_of_passowrd = local_a8[local_b4] XOR uvar1`
+We can do it manually for the first character which gives:
+`local_a8[0] XOR uvar1 = 0x6b8b4524 XOR 0x6b8b4567 = 67`
+And with python we obtain the corresponding character:
+
+![battlecry](Images/24.png)
+`Chr(67)` =>finds the character that corresponds to `67`
+Don't forget that we find the elements of the local_a8 array in the code provided
+by ghidra
+The calculation of the XOR can be done on online platforms :)
+So just continue like this for each character by varying `local_b4` from `0
+at `36`
+I could have done it manually but I wanted to try a script anyway
+I'm not really good at Scripting
+I got the following code:
+![battlecry](Images/25.png)
+
+
+The list contains all the elements of `local_a8` , I use `numpy` to implement the
+calculation of `XOR`
+
+![battlecry](Images/26.png)
+
+
+![battlecry](Images/27.png)
+
+BIIIIIIIIIINGO !
+
+![battlecry](Images/28.png)
+
+gdb confirms that it is the correct password!!!!
+The flag is therefore: `CTF_@lw4yS_1ni7iaLiZe_s3@nD_TiMe_Nu!!` `
+As we can see, the guardians of treasures should remember to love chance :)
+THANKS !!!!!
+Flag : `CTF_@lw4yS_1ni7iaLiZe_s3@nD_TiMe_Nu!!` 
