@@ -1,4 +1,4 @@
-#### Categorie: Steganography
+#### Categorie: Misc
 #### **Author**: r3s0lv3r
 #### Solve: 4/20 
 #### Points: 200 pts (at first)|   185 pts (at end)
