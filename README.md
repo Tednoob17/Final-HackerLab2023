@@ -50,7 +50,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [You Know](./Cryptography/You-Know.md)               | Cryptography     | W1z4rd      | 70    |❌ |
 | [RSA](./Cryptography/RSA.md)                                             |  Cryptography        | r3s0lv3r   | 70      |❌ |
 | [ANONYME](./Cryptography/ANONYME.md)                                       | Cryptography         | unpasswd     | 70     |❌ |
-| [ENCODING](./Cryptography/ENCODING.md)                 | Cryptography         | unpasswd      | 200     |❌ |
+| [ENCODING](./Cryptography/ENCODING.md)                 | Cryptography         | unpasswd      | 200     |✅ |
 | [MULTI](./Cryptography/MULTI.md)                                   | Cryptography         |unpasswd      | 200    |❌ |
 | [VUITTON](./Cryptography/VUITTON.md)                                         | Cryptography           | unpasswd   | 200     | ✅|
 | [Split RSA](./Cryptography/Split-RSA.md)                                           | Cryptography           | 5c0r7     | 200    |❌ |
