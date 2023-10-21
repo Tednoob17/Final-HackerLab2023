@@ -11,8 +11,10 @@ Ne laisse nulle part où la main ne passe et ne repasse, fouille et refouille. V
 Leaves nowhere where the hand does not pass and iron, search and re-search. Go and chat with the bot **hacker_bot#4249** in dm and bring us back this famous treasure he is hiding.
 
 
-- ### Write-Ups
-    - FR Version
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
 
 ![hackerbot](Images/hackerbot.png)
 

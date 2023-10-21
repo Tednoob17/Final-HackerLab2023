@@ -11,8 +11,11 @@ Pour atteindre le trésor caché au cœur d'une grotte mystérieuse, vous devrez
 To reach the treasure hidden in the heart of a mysterious cave, you'll have to solve a series of riddles designed to deactivate a complex security system. The archaeologists who explored the cave have left valuable clues to guide you on this exciting adventure.
 
 
-### Write-up
-## Fr Version 
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
 ![log](l0gic.png)
 Pour ce challenge, nous avons deux fichiers à utiliser.En ouvrant le premier fichier qui est une image, nous voyons une écriture bizarre écrite sur l'image :
 ![gic](Images/form.jpeg)
@@ -39,7 +42,7 @@ Bingo!!!!!!!!!!!!
 Flag : `CTF_Ll0g1c4l_4c3ss_Gr4nt3d_t0_4ll_g4t3`
 
 -------------------------------------------------------------------
-### En Version 
+### Eng Version 
 
 
 

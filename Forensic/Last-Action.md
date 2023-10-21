@@ -4,7 +4,7 @@
 #### Points: 200 pts (at first)| 120 pts (at end)
 #### Files: [NTUSER.DAT](./Forensic/Files/NTUSER.DAT.copy0)   
 #### Write-up by: Amoweak ([Amoweak](https://twitter.com/sinaamand05))
-#### Description :
+#### Description : 
 #### **[FR]**
 L'équipe d'investigation en réponse aux incidents (IR) des gardiens des trésors a mené une opération de perquisition chez un membre du groupe DokounXosu.
 
@@ -28,10 +28,12 @@ You are responsible for finding the following:
 **Format du FLAG**: CTF_**filename**:**yyyy-mm-dd hh:mm:ss**:**Nomdurepertoire**
 
 
-- ### Write-Ups
-  ### FR Version
-  > Challenge
-  ![last](Images/lastaction.png)
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
+ ![last](Images/lastaction.png)
 
 Après téléchargement du fichier, première chose, on vérifie le type du fichier, et il s’avère que c’est un Microsoft Windows registry file.
 
@@ -45,11 +47,11 @@ On cherche donc un autre moyen. Après des recherches, un membre de l’équipe
 « [Jekyll](https://twitter.com/Ted_Kouhouenou) » découvre un outil qui pourrait nous aider. Il s’agit de cet outil : 
 **RegRipper 3.0** 
 
-
 ![file3](Images/amo3.png) 
 > Source : `https://github.com/keydet89/RegRipper3.0` 
 
 Je clone le répertoire 
+
 ```bash
 git clone https://github.com/keydet89/RegRipper3.0
 ```
@@ -78,9 +80,9 @@ On sait que le format du Flag est comme ceci :
 Flag : `CTF_link.txt:2023-09-28 13:43:41:Adipol.`
 
 ----------------------------------------------------------
-### EN Version
+### Eng Version
 
- ### FR Version
+
   > Challenge
   ![last](Images/lastaction.png)
 

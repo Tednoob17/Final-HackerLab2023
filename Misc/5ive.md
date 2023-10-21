@@ -12,9 +12,11 @@ Vite crack ce mot de passe :
 Quickly crack this password:
 
 
-- ### Write-ups 
+- ## Solution :
+### Fr Version : 
 
-   - ### FR Version 
+`For ENG version scroll down` 
+
 
 ![five1](Images/five-1.png)
 
@@ -29,7 +31,6 @@ Nous pouvons remarquer que dans notre cas ce n'est pas pareil.
 
 ##### Remarque: 
  Ce hash contient des caractères  non hexadécimaux , un (O)  et un point (H.)
-
 Apres les avoir retirés on essaie de cracker le mot de passe avec un des nombreux outils qui peuvent nous permettre d'y arriver, j'ai décidé d'utiliser [CrackStation](https://crackstation.net/) 
 
 ![Crackstation](Images/crackstation.png)
@@ -48,7 +49,7 @@ Flag: `CTF_4622iloveyou4622`
 
 -------------------------------------------------------------------
 
-   - ### ENG Version 
+   - ### Eng Version 
 
 ![five1](Images/five-1.png)
 

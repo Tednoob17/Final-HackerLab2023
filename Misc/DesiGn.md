@@ -11,13 +11,15 @@ Pouvez-vous me sculpter ?
 #### **[EN]**
 Can you sculpt me ?
 
-## Write-up
-## Fr version 
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
 ![des](Images/design.png)
 Nous téléchargeons le fichier donné en description, il s'agit d'un fichier Excel au format `.csv`
 
-En ouvrant le fichier en question avec *OnlyOffice* (Vive l'Open Source), nous remarquons un
-chiffres.
+En ouvrant le fichier en question avec *OnlyOffice* (Vive l'Open Source), nous remarquons des chiffres.
 ![donee](Images/coord.png)
 En nous référant à la description donnée nous arrivons à penser qu'il s'agit de coordonnées .
 Bon essayons alors d'afficher ces coordonnes sur un plan pour voir ce que cela forme comme *sculpture*.
@@ -73,7 +75,7 @@ Flag : `CTF_Navigating_the_Digital_Maze_4f8ae63f9`
 
 --------------------------------------------------------------------
 
-### En Version
+### Eng Version
 
 
 ![des](Images/design.png)
@@ -127,6 +129,7 @@ And after a few seconds we have
 ![libb](Images/plolib.png)
 
 The image in question appears to be upside down and also to have had a mirror effect
+(Yes i know my wallpapper is nice !) 
 
 After a few headaches, we can rewrite the flag
 `CTF_Navigating_the_Digital_Maze_4f8ae63f9`

@@ -6,9 +6,17 @@
 
 #### Write-up by: [Gojo]() 
 
-## Write-up
-## Fr Vension
-![rand](Images/random.png)
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
+>   Challenge
+>   
+	![rand](Images/random.png)
+
+
+
 Un challenge sur du reverse, le titre déjà me parlais, Randmisandom, j’ai senti qu’on
 aura affaire à un challenge faisant intervenir une fonction pour produire des nombres
 aléatoires. Une petite lecture de la description du challenge me fait dire surement que
@@ -201,11 +209,6 @@ calcul du `XOR`
 ![battlecry](Images/26.png)
 
 
-
-
-
-
-
 ![battlecry](Images/27.png)
 
 BIIIIIIIIIINGO !
@@ -220,12 +223,13 @@ Flag : `CTF_@lw4yS_1ni7iaLiZe_s3@nD_TiMe_Nu!!`
 
 -----------------------------------------------------------------------
 
-### En Version
+### Eng Version
 
+> Challenge
+> 
+	![rand](Images/random.png)
 
-
-![rand](Images/random.png)
-A reverse challenge, the title already spoke to me, Randmisandom, I felt that we
+A reverse challenge, the title already spoke to me, ***Randmisandom*** , I felt that we
 will face a challenge involving a function to produce numbers
 random. A quick reading of the description of the challenge makes me surely say that
 the random will be guessable (we can guess) since we are told that the guards of

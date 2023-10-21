@@ -12,10 +12,10 @@ Un logiciel a été démarré et aussitôt fermé. Quel est le nom de ce dernier
 A software was started and immediately closed. What's the name of this one?
 
 
+## Solution :
+### Fr Version : 
 
-- ### Write-Ups
-
-  ### FR Version
+`For ENG version scroll down` 
   ![show](Images/invest1.png)
 
 
@@ -43,7 +43,7 @@ Donc le flag est : CTF_FoxitPDFReader.
 Flag: `CTF_FoxitPDFReader` 
 
 
-###  EN Version 
+###  Eng Version 
 
   ![show](Images/invest1.png)
 

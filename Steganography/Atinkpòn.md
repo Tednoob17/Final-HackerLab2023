@@ -11,8 +11,11 @@ Vous avez mis la main sur un fichier énigmatique qui semble receler un précieu
 #### **[EN]**
 You've got your hands on an enigmatic file that seems to conceal a precious secret. However, the file has been altered in such a way as to obscure its original contents. Can you unlock the secret?
 
-- ###  Write-Ups
--  FR Version
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
 ![file](Images/atinkpon.png)
 
 Apres avoir téléchargé le fichier, on essaie de l'ouvrir, mais nous avons une erreur lors de l'ouverture.
@@ -113,8 +116,8 @@ Ces caractères sont sûrement de l'hexadécimal, nous obtenons ceci après déc
 Flag : `CTF_D!g_F0r_7h3_H!dd3n_Gold3n_7r34$ur3`
 
 -------------------------------------------------------------------
+### Eng Version
 
-  ### EN Version
   
 ![file](Images/atinkpon.png)
 

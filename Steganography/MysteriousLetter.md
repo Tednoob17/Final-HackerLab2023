@@ -12,8 +12,10 @@ Find the hidden message.
 
 **FLAG** : CTF_**secretmessage**
 
-- ### Write-Up
- - ### FR Version
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
  
 ![mystr](Images/mysteriousletter.png) 
 
@@ -51,7 +53,7 @@ Flag: `CTF_lineendswithspace`
 
 ------------------------------------------------------------------
 
-### EN Version
+### Eng Version
 
 ![mystr](Images/mysteriousletter.png) 
 

@@ -13,12 +13,12 @@ Cyberattaque du groupe DɔkunXɔsu sur la réserve nationale de trésors royaux 
 Cyberattack by the DɔkunXɔsu group on Benin's national reserve of royal treasures. IR analysts were able to recover Windows event logs.
 
 
-- ### Write-Ups
-  ### FR Version 
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
   
 ![intrusion](Images/intrusion.png)
-
-
 
 Après téléchargement du fichier, on note l’extension « .evtx », utilisée pour les journaux d’événements et un outil pouvant l’ouvrir il y a un : l’Observateur d’événements de Windows. On essaie donc de l’ouvrir avec et voici le résultat :
 
@@ -29,6 +29,7 @@ Première chose on essaie de rechercher le mot clé « CTF » mais comme lors 
 ![weak](Images/weak1.png)
 
 On fouille ensuite les différentes lignes du fichier, et on tombe sur deux lignes intrigantes :
+
 ![weakk](Images/weak2.png)
 
 
@@ -39,7 +40,6 @@ C’est la seconde image qu’on avait trouvée pendant nos fouilles  d’où le
 J’essaie de décoder le message en se basant sur le fait qu’il a été codé en base 64, sur CyberChef. On obtient du texte assez descriptif qu’il s’agit d’une commande PowerShell.
 
 ![wak](Images/weak4.png)
-
 
 On télécharge le fichier pour par la suite le faire analyser pour essayer de comprendre le code. Mais par surprise, quand on ouvre le fichier téléchargé, on arrive à lire la commande facilement.
 
@@ -67,8 +67,9 @@ Et donc on a le flag ici qui s’affiche :
 Flag: `CTF_DokounXosu_its_g047_1nvbascript))` 
 
 -----------------------------------------------------------
- 
-  ### EN Version 
+
+
+### Eng Version
   
   
 ![intrusion](Images/intrusion.png)
@@ -123,4 +124,6 @@ After several attempts, we had to remove this part to get a good result: "('ieX'
 And so we have the flag displayed here:
 
 ![guard](Images/weak8.png)
+
+
 Flag: `CTF_DokounXosu_its_g047_1nvbascript))` 

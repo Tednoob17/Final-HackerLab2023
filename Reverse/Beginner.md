@@ -13,9 +13,10 @@ Une erreur de débutant ?
 
 A beginner's mistake ?
 
-### Write-up
+## Solution :
+### Fr Version : 
 
-### FR Version 
+`For ENG version scroll down` 
 
 ![beg](Images/beginner.png)
 
@@ -98,8 +99,10 @@ Flag : `CTF_N0C0N57r41N750NCr3471V17Y`
 
 ------------------------------------------------------------------
 
-### EN Version 
-![beg](Images/beginner.png)
+### Eng Version 
+> Challenge
+> 
+	![beg](Images/beginner.png)
 
 
 When you download the file associated with the challenge and decompile it using **Hex-Rays,** (any other decompiler will do), you get the following main function instructions:

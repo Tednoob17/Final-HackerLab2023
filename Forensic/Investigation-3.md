@@ -8,18 +8,20 @@
 ### Flag Format : CTF_**[A-Za-z]**  
 
 #### **[FR]**
-
 Un fichier txt est ouvert lors du dump de la mémoire. Le fichier est situé dans le dossier Documents. Un flag est contenu dans le fichier.
 #### **[EN]**
 A txt file is opened during memory dump. The file is located in the Documents folder. A flag is contained in the file.
 
-### Write-up
-#### FR Version
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
 
 ![invest](Images/invest3.png)
 
 Des recherches ont d’abord été faites pour pouvoir faire la tâche.
-`see all files open volatility`
+NOus tapons ceci sur Google : `see all files open volatility`
+
 ![search](Images/search.png)
 
 On a suivi le second lien, l’article medium. Grâce à cet article, on a pu effectuer la tâche demandée.
@@ -38,7 +40,7 @@ Le flag est donc : CTF_1vest1G4tion_D3s_tresor .
 Flag: `CTF_1vest1G4tion_D3s_tresor`
 
 -----------------------------------------------------------------
-#### EN Version
+### Eng Version
 
 
 ![invest](Images/invest3.png)

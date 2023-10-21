@@ -9,10 +9,11 @@
 Écoutez simplement
 #### **[EN]**
 Just listen
-**Author**: Hum4n
 
-### Write-up
-## Fr Version
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
 
 ![listen](Images/listen.png)
 
@@ -24,7 +25,7 @@ A 38:00 de l'audio nous entendons le flag`CTF_tu_ecoutes_bien_g`
 Flag : `CTF_tu_ecoutes_bien_g`
 
 ------------------------------------------------------------------
-### En Version
+### Eng Version
 
 
 ![listen](Images/listen.png)
