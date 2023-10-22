@@ -40,9 +40,9 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Nùxoxo](./Steganography/Nùxoxo.md)                              | Steganography        | r3s0lv3r    | 200     |❌ |
 | [V3rt](./Steganography/V3rt.md)                                    | Steganography        | Hum4n | 500    |❌ |
 | [Quelques traits dans ma lettre](Cryptography/Quelques-traits-dans-ma-lettre.md)                                        | Cryptography        | 5c0r7 | 30    |✅ |
-| [Atom](./Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |❌ |
+| [Atom](./Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |✅ |
 | [Transpose](./Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |❌ |
-| [Pivot](./Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |❌ |
+| [Pivot](./Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |✅ |
 | [Five o'clock](./Cryptography/Five-o'clock.md)                       | Cryptography     |r3s0lv3r       | 70     |❌ |
 | [Mateau de Tor](./Cryptography/Mateau-de-Tor.md)                       | Cryptography     | W1z4rd      | 70    |❌ |
 | [JPEG](./Cryptography/JPEG.md)               | Cryptography     | Hum4n      | 70    |❌ |
@@ -75,7 +75,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [5ive](./Misc/5ive.md)   | Misc           | 5c0r7   | 30     | ✅|
 | [Ricky](./Misc/Ricky.md)                                   | Misc           | W1z4rd     | 30     |❌ |
 | [DesiGn](./Misc/DesiGn.md)                         | Misc           |  r3s0lv3r     | 70    |✅ |
-| [M3ssage](./Misc/M3ssage.md)                                     | Misc           | unpasswd   | 70    |❌ |
+| [M3ssage](./Misc/M3ssage.md)                                     | Misc           | unpasswd   | 70    |✅ |
 | [Rabbit](./Misc/Rabbit.md)                                           | Misc           | 5c0r7   | 70    |❌ |
 | [Admin bot](./Misc/Adminbot.md)                                           | Misc           | 5c0r7   | 200    |❌ |
 | [L0giC](./Misc/L0giC.md)                          | Misc           | r3s0lv3r      | 200    |✅ |

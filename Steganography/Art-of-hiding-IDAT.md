@@ -15,3 +15,11 @@ The order of succession in the kingdom was disrupted by the invaders. This image
 ## Solution :
 ### Fr Version : 
 `For ENG version scroll down` 
+
+https://elsicarius.fr/les-images-png-comment-ca-marche-comment-corriger-manuellement-les-erreurs 
+
+https://fr.wikipedia.org/wiki/Portable_Network_Graphics 
+
+https://ctftime.org/writeup/26913
+
+https://hexed.it/ 

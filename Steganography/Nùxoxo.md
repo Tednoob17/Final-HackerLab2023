@@ -9,3 +9,15 @@
 En dehors de la boîte !
 #### **[EN]**
 Outside the box !
+
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
+
+https://wiki.bi0s.in/steganography/tweak-png/ 
+https://entropymine.com/jason/tweakpng/  downloads
+```
+sudo apt install wine-stable
+```
