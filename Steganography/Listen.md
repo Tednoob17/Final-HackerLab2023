@@ -3,7 +3,7 @@
 #### Solve: 19/20 
 #### Points: 30 pts (at first)|  12 pts (at end)
 #### Files: [Benin_vi.mp3](Files/Benin_vi.mp3)   
-#### Write-up by: [0xJekyll](https://twitter.com/Ted_Kouhouenou) 
+#### Write-up by: [Jekyll](https://twitter.com/Ted_Kouhouenou) 
 #### Description :
 #### **[FR]**
 Écoutez simplement

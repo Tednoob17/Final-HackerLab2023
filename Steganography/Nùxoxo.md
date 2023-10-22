@@ -3,7 +3,7 @@
 #### Solve: 3/20 
 #### Points: 200 pts (at first)| 190 pts (at end)
 #### Files: [proj_.png](./Files/proj_.png)   
-#### Write-up by: Amoweak ([Amoweak](https://twitter.com/sinaamand05))
+#### Write-up by: [Jekyll](https://twitter.com/Ted_Kouhouenou)
 #### Description :
 #### **[FR]**
 En dehors de la boîte !

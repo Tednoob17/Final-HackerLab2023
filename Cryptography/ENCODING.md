@@ -3,7 +3,7 @@
 #### Solve: 19/20 
 #### Points: 200 pts (at first)| 110 pts (at end)
 
-#### Write-up by:[0xJekyll](https://twitter.com/Ted_Kouhouenou) 
+#### Write-up by:[Jekyll](https://twitter.com/Ted_Kouhouenou) 
 
 ### Description : 
 
@@ -29,8 +29,6 @@ Flag : `CTF_encoding_utf-8_to_utf-16_234452.`
 --------------------------------------------------------------------
 
 ### Eng Version
-
-
 
 ![enc](Images/encoding.png)
 

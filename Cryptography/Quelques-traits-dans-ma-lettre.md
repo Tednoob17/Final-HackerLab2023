@@ -2,7 +2,7 @@
 #### **Author**: 5c0r7
 #### Solve: 18/20 
 #### Points: 30 pts (at first)| 13 pts (at end)
-#### Write-up by: 
+#### Write-up by: [Jekyll](https://twitter/Ted_Kouhouenou)
 
 #### Description :
 

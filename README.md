@@ -43,7 +43,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Atom](./Cryptography/Atom.md)                                     |Cryptography      | 5c0r7   | 30     |✅ |
 | [Transpose](./Cryptography/Transpose.md)                       |Cryptography      | r3s0lv3r      | 30     |❌ |
 | [Pivot](./Cryptography/Pivot.md)                               | Cryptography     | r3s0lv3r   | 70     |✅ |
-| [Five o'clock](./Cryptography/Five-o'clock.md)                       | Cryptography     |r3s0lv3r       | 70     |❌ |
+| [Five o'clock](./Cryptography/Five-o'clock.md)                       | Cryptography     |r3s0lv3r       | 70     |✅ |
 | [Mateau de Tor](./Cryptography/Mateau-de-Tor.md)                       | Cryptography     | W1z4rd      | 70    |❌ |
 | [JPEG](./Cryptography/JPEG.md)               | Cryptography     | Hum4n      | 70    |❌ |
 | [DNA](./Cryptography/DNA.md)               | Cryptography     |  Hum4n     | 70    |❌ |
@@ -82,7 +82,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [NotBase](./Misc/NotBase.md)                              | Misc           | unpasswd      | 200    |❌ |
 | [Nùkanbyɔ](./Misc/Nùkanbyɔ.md)                               | Misc           | W1z4rd      | 500    |❌ |
 | [Drôle de chiffrement](./Misc/Drôle-de-chiffrement.md)                                         | Misc       | W1z4rd      | 500    |❌ |
-| [Hacker bot](./Reverse/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |❌ |
+| [Hacker bot](./Reverse/Hacker-bot.md)                           | Misc       | 5c0r7      | 1000    |✅ |
 | [Fake](./Reverse/Fake.md)                                  | Reverse     | 5c0r7     | 30     |❌ |
 | [Beginner](./Reverse/Beginner.md)                                      | Reverse      | unpasswd   | 30     |✅ |
 | [LOR](./Reverse/LOR.md)                       | Reverse | unpasswd   | 70     |❌ |
