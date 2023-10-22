@@ -16,8 +16,9 @@ Another jail, bypass the filters.
 https://github.com/Tednoob17/HackerLab2023/blob/main/Qualifications%20Stages/HackerLab2023%20-%20Gankpa%20M%C9%9B.pdf
 
 ## Solution :
-### Fr Version
+### Fr Version : 
 
+`For ENG version scroll down` 
 ![prison](Images/gankpame2.png)
 
 
