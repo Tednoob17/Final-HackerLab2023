@@ -4,6 +4,7 @@
 #### Points: 200 pts (at first)| 130 pts (at end)
 
 #### Write-up by: Jekyll ([0xJekyll](https://twitter.com/Ted_Kouhouenou))
+### Files :  [private.pem](./Files/private.pem) ,  [encrypted.txt](./Cryptography/Files/encrypted.txt) 
 #### Description :
 #### **[FR]**
 
@@ -13,8 +14,11 @@ Ma clé privée ne fonctionne plus. Heureusement, j'ai un expert comme vous, sin
 My private key is no longer working. Thankfully, I have an expert like you; otherwise, I wouldn't be able to access the contents of my files.
 
 
-- ### Write-Ups
-  ### FR Version
+## Solution :
+### Fr Version : 
+
+`For ENG version scroll down` 
+
 
 ![vuitton](Images/vuitton.png)
 

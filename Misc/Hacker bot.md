@@ -1,3 +1,4 @@
+
 #### Categorie: Misc 
 #### **Author**: 5c0r7
 #### Solve: 3/20 
@@ -42,3 +43,10 @@ Nous tentons d'utiliser cette commande  et surtout  de vérifier comment l'utili
 ![bot2](Images/discord2.png)
 
 Hum, evidemment rien ne passe .Nous essayons de faire autre chose,pour cela qu'est ce qui pourrait nous permettre de 
+
+
+
+
+-------------------------------------------------------------------------
+
+### Eng Version

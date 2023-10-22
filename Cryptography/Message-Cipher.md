@@ -2,6 +2,7 @@
 #### **Author**: 5c0r7
 #### Solve: 10/20 
 #### Points: 200 pts (at first)|  155 pts (at end)
+### File : [script.py](./Files/script.py)
 #### Write-up by: [error]()
 #### Description : 
 #### **[FR]**
@@ -14,9 +15,6 @@ Are you sure to be Admin???
 ## Solution :
 ### Fr Version : 
 `For ENG version scroll down` 
-
-
-
 
 
 ![message](Images/messagecypher.png)
