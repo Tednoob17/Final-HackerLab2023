@@ -45,11 +45,9 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux . | Follow these incredibl
 - [unpasswd](https://www.linkedin.com/in/arafat-lassissi-1883aa215/) 
 - [R!md0r](https://www.linkedin.com/in/aristide-sossou-9b315a127/)
 
-**Total : 102 Challenges**   
-# 🎯 
+**Total : 102 Challenges** 
 
- 🇨🇵 **Cliquez sur le nom d'un challenge pour lire son Write-up**  
- -------- 
+ 🇨🇵 **Cliquez sur le nom d'un challenge pour lire son Write-up**   
  🇺🇸 **Click on the name of a challenge to read its Write-up** 
 
 *Progress Bar* :    
