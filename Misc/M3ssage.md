@@ -2,8 +2,8 @@
 #### **Author**: unpasswd
 #### Solve: 16/20 
 #### Points: 70 pts (at first)|  55 pts (at end)
-### File : []
-#### Write-up by: 
+### File : [message](./Files/message)
+#### Write-up by: [Jekyll]()
 #### Description : 
 
 #### **[FR]**
@@ -20,3 +20,13 @@ Here is the message I received from the sender: 'I wanted to send you the messag
 ### Fr Version : 
 
 `For ENG version scroll down` 
+
+![sage](Images/sage.png)
+
+Nous recuperons le fichier puis verifions de quel type il est 
+
+```bash
+~/Downloads → file message
+message: zlib compressed data
+```
+il s'agit donc d'un fichier zlib 
