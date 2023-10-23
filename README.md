@@ -91,17 +91,17 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [siká-netic](./Reverse/siká-netic.md)   | Reverse | W1z4rd       | 200    |✅ |
 | [May Day](./Reverse/MayDay.md)              | Reverse | W1z4rd        | 200    |❌ |
 | [Couvent des Initiés](./Reverse/Couvent-des-Initiés.md)                                         | Reverse           | R!md0r   | 500     |❌ |
-| [Connect You](./Web/ConnectYou.md)                                     | Web           | 5c0r7    | 70     |❌ |
-| [Source](./Web/Source.md)                                   | Web           | 5c0r7      | 70     |❌ |
-| [FAKE_POWER](./Web/FAKE_POWER.md)                         | Web           | unpasswd      | 70    |❌ |
-| [Baby-hunter: cookies](./Web/Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |❌ |
-| [Upload me](./Web/Upload-me.md)                                           | Web           | Hum4n   | 70    |❌ |
+| [Connect You](./Web/ConnectYou.md)                                     | Web           | 5c0r7    | 70     |✅  |
+| [Source](./Web/Source.md)                                   | Web           | 5c0r7      | 70     |✅  |
+| [FAKE_POWER](./Web/FAKE_POWER.md)                         | Web           | unpasswd      | 70    |✅  |
+| [Baby-hunter: cookies](./Web/Baby-hunter-cookies.md)                                     | Web           | W1z4rd   | 70    |✅  |
+| [Upload me](./Web/Upload-me.md)                                           | Web           | Hum4n   | 70    |✅  |
 | [Baby-hunter1: rodi](./Web/Baby-hunter1-rodi.md)                                           | Web           | W1z4rd    | 70    |❌ |
-| [Refff](./Web/Refff.md)                          | Web           |  Hum4n     | 200    |❌ |
-| [Bazik-node](./Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |❌ |
-| [Les trésors](./Web/Les-trésors.md)                               | Web           |  Hum4n     | 200    |❌ |
-| [PHP2](./Web/PHP2.md)                               | Web           |  5c0r7      | 200    |❌ |
-| [MAINTENANCE](./Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |❌ |
+| [Refff](./Web/Refff.md)                          | Web           |  Hum4n     | 200    |✅  |
+| [Bazik-node](./Web/Bazik-node.md)                              | Web           |   Hum4n    | 200    |✅ |
+| [Les trésors](./Web/Les-trésors.md)                               | Web           |  Hum4n     | 200    |✅  |
+| [PHP2](./Web/PHP2.md)                               | Web           |  5c0r7      | 200    |✅  |
+| [MAINTENANCE](./Web/MAINTENANCE.md)                                         | Web       | unpasswd     | 200    |✅  |
 | [Prize Hunter](./Web/Prize-Hunter.md)                           | Web       |r3s0lv3r      | 200    |❌ |
 | [DIN](./Web/DIN.md)                                  | Web      | unpasswd      | 200     |❌ |
 | [DJUDA](./Web/DJUDA.md)                                      | Web      | unpasswd   | 200     |❌ |
@@ -112,7 +112,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 | [Renderer 1](./Web/Renderer-1.md)              | Web | 5c0r7       | 200    |❌ |
 | [Sn4p-Sh0t](./Web/Sn4p-Sh0t.md)                                         | Web           | W1z4rd   | 500     |❌ |
 | [GARDIEN](./Web/GARDIEN.md)                                     | Web           | unpasswd   | 500     |❌ |
-| [Renderer 2](./Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     | |
+| [Renderer 2](./Web/Renderer-2.md)                                   | Web           | 5c0r7       | 500     |❌ |
 | [RFE](./Web/RFE.md)                         | Web           |  5c0r7      | 500    |✅ |
 | [ABRACADABRAaa](./Web/ABRACADABRAaa.md)                                     | Web           | 5c0r7   | 1000    |✅ |
 | [Investigation 1](./Forensic/Investigation-1.md)                                           | Forensic           |  Hum4n | 70    |✅ |
