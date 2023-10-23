@@ -18,7 +18,7 @@ Le HackerLab, lancé par l’[Agence des Systèmes d'Information et du Numériqu
 
 -------------------------------------------------
 🇺🇸
-The HackerLab, launched by the [Agence des Systèmes d'Information et du Numérique](https://fr.wikipedia.org/wiki/Agence_nationale_de_la_s%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information_( B%C3%A9nin)), represents a national competition aimed at identifying and promoting talents as well as skills in the field of cybersecurity and the fight against cybercrime in Benin. For its 2023 edition, the HackerLab competition is open to students and cybersecurity enthusiasts, as well as professionals in this field, aged between 18 and 35.
+The HackerLab, launched by the [Agence des Systèmes d'Information et du Numérique](https://fr.wikipedia.org/wiki/Agence_nationale_de_la_s%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information_(B%C3%A9nin)) represents a national competition aimed at identifying and promoting talents as well as skills in the field of cybersecurity and the fight against cybercrime in Benin. For its 2023 edition, the HackerLab competition is open to students and cybersecurity enthusiasts, as well as professionals in this field, aged between 18 and 35.
 
 
 ## 🏜️ 🏇
