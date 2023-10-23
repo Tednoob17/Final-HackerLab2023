@@ -27,7 +27,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux .
 
 🎯 **Cliquez sur le nom d'un challenge pour lire son Write-up**     
 *Progress Bar* :    
-**[>>>>>>>>>>>>>>>>>>............................................................................]**  
+**[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.......................................................]**  
 
 
 | Nom                                                              | Catégorie     | Auteur     | Points | Done   |
