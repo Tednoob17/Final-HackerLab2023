@@ -1,7 +1,7 @@
 #### Categorie: Misc
 #### **Author**: unpasswd
-#### Solve: 14/20 
-#### Points: 70 pts (at first)|  57 pts (at end)
+#### Solve: 16/20 
+#### Points: 70 pts (at first)|  55 pts (at end)
 ### File : []
 #### Write-up by: 
 #### Description : 
@@ -13,7 +13,7 @@ Voici le message que j'ai reçu de l'expéditeur : 'Je voulais t'envoyer le mess
 #### **[EN]**
 Here is the message I received from the sender: 'I wanted to send you the message in its entirety, but the application rejected it because my file was too large. So, I reduced it, but I don't remember how I did it. Please see if you can find the original message on your side.'
 
-**Author**: 
+
 
 
 ## Solution :

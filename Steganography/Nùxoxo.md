@@ -41,7 +41,7 @@ Au fur et à mesure que nous élargissons l'image, nous remarquons qu'un petit m
 
 ![flou](Images/flou.jpeg)
 
-Mais l'image n'est pas très claire, nous décidons donc d'uploader l'image sur stegonline
+Mais l'image n'est pas très claire, nous décidons donc d'uploader l'image sur [stegonline](https://stegonline.georgeom.net/) 
 et d'appliquer des effets sur l'image afin de pouvoir mieux distinguer ce qui est écrit
 nous appliquons l'effet rouge qui nous paraît assez net.
 ![toj](Images/toj_.png)
@@ -87,7 +87,7 @@ As we enlarge the image, we notice that a small message forms at the bottom of t
 
 ![flou](Images/flou.jpeg)
 
-But the image is not very clear, so we decide to upload the image to stegonline
+But the image is not very clear, so we decide to upload the image to [stegonline](https://stegonline.georgeom.net/) 
 and apply effects to the image in order to better distinguish what is written
 we apply the red effect which seems quite clear to us.
 ![toj](Images/toj_.png)

@@ -3,7 +3,7 @@
 #### Solve: 12/20 
 #### Points: 200 pts (at first)| 145 pts (at end)
 
-#### Write-up by: Jekyll ([0xJekyll](https://twitter.com/Ted_Kouhouenou))
+#### Write-up by: [Jekyll](https://twitter.com/Ted_Kouhouenou) & [error]() & [Gojo](https://twitter.com/GOMEZJohan5) 
 #### Description :
 #### **[FR]**
 Discuter avec le bot de l'administrateur dans le canal #admin_bot du discord HACKERLAB2023 et essayer de lui faire afficher le flag.
