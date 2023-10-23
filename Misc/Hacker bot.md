@@ -44,8 +44,14 @@ Nous tentons d'utiliser cette commande  et surtout  de vérifier comment l'utili
 
 Hum, évidemment rien ne passe.Nous essayons de faire autre chose, pour cela qu'est ce qui pourrait nous permettre d'obtenir des infos chez un bot a part le questionner stupidement alors qu'on sait qu'on n'aura pas la réponse, à un moment, on se dit que s'il doit nous envoyer un flag c'est qu'il le stocke, donc il avoir une base de donnée donc on pense commencer une **SQLI**. 
 
+Nous tentons plusieurs methode possible pour tenter 
 
 
+![flag](Images/botflag.png)
+
+
+
+Flag : `CTF_00o0o0uups5sSsSSs`
 
 -------------------------------------------------------------------------
 

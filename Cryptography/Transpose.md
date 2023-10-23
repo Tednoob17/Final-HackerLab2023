@@ -8,10 +8,13 @@
 ### File: [Transpose.txt](Files/Transpose.txt)
 #### Write-up by:  [OxJekyll](https://twitter.com/Ted_Kouhouenou)
 
-
 ## Solution :
 ### Fr Version : 
 
 `For ENG version scroll down` 
 
 ![pose](Images/transpose.png)
+
+
+Le contenu du fichier est le suivant : 
+`YISFNE OGSPENOORRD UACOCIRIEE RLTTRTMTCV FFEAO` 
