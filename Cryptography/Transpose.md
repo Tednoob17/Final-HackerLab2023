@@ -31,3 +31,29 @@ FInalement le chiffrement qui etait le bon etait le ` Rail Fence (Zig-Zag)`
 ![](Images/flagg.png)
 
 ### Flag :  `CTF_TOPSECRETINFORMATIONRECOVERED`
+
+
+---------------------------------------------------------------------------------
+
+## Eng Version 
+
+
+
+![pose](Images/transpose.png)
+
+
+The contents of the file are as follows:
+
+`YISFNE OGSPENOORRD UACOCIRIEE RLTTRTMTCV FFEAO`
+
+The name of the challenge must surely be a clue, let's try to see with [dcode](https://www.dcode.fr/)
+and try to search for the term *Transposition*
+We obtain a list containing all the transposition ciphers, and try each of them
+![](Images/transposition.png)
+
+
+Finally the cipher that was the right one was the `Rail Fence (Zig-Zag)` 
+
+![](Images/flagg.png)
+
+### Flag :  `CTF_TOPSECRETINFORMATIONRECOVERED`
