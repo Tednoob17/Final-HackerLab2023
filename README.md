@@ -9,7 +9,6 @@ Le HackerLab est une compétition organisée au [Bénin](https://fr.wikipedia.or
 🇺🇸 
 The HackerLab is a competition organized in [Benin](https://fr.wikipedia.org/wiki/B%C3%A9nin) according to the format of the game [Capture the Flag](https://fr.wikipedia.org/wiki/Wargame_(hacking)) bringing together Beninese specialists and enthusiasts of [cybersecurity](https://fr.wikipedia.org/wiki/Cybers%C3%A9curit%C3%A9) who confront each other through a diverse range of challenges covering various topics.
 
-
 ## 👨‍💻
 ### Présentation du Hacker lab
 🇨🇵
@@ -18,7 +17,6 @@ Le HackerLab, lancé par l’[Agence des Systèmes d'Information et du Numériqu
 -------------------------------------------------
 🇺🇸
 The HackerLab, launched by the [Agence des Systèmes d'Information et du Numérique](https://fr.wikipedia.org/wiki/Agence_nationale_de_la_s%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information_(B%C3%A9nin)) represents a national competition aimed at identifying and promoting talents as well as skills in the field of cybersecurity and the fight against cybercrime in Benin. For its 2023 edition, the HackerLab competition is open to students and cybersecurity enthusiasts, as well as professionals in this field, aged between 18 and 35.
-
 
 ## 🏜️ 🏇
 
@@ -30,7 +28,6 @@ La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, ras
 ------------------------------------
  🇺🇸
 The final of the 6th edition of the HackerLab was held from October 4 to 6, bringing together around twenty teams after a preselection phase. The theme of this edition was "The Guardians of the Royal Treasures"
- 
 
 -------------------------------------------------------------------
 ## 🎄 Challs-Dashboard 
@@ -51,7 +48,7 @@ Suivez ces incroyables *CTF Maker* sur   les réseaux . | Follow these incredibl
  🇺🇸 **Click on the name of a challenge to read its Write-up** 
 
 *Progress Bar* :    
-**[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.......................................................]**  
+**[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.......................................]**  
 
 
 | Nom                                                              | Catégorie     | Auteur     | Points | Done   |
