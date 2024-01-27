@@ -1,4 +1,4 @@
-# Final-HackerLab2023
+# Final-HackerLab2023.
 
 ## 🏁
 
@@ -23,7 +23,7 @@ The HackerLab, launched by the [Agence des Systèmes d'Information et du Numéri
 ### Édition 2023
  
 🇨🇵
-La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, rassemblant une vingtaine d'équipes après une phase de présélection. Le thème de cette édition était "Les Gardiens des Trésors Royaux"
+La finale de la 6ème édition du HackerLab s'est tenue du 04 au 06 octobre, rassemblant une vingtaine d'équipes après une phase de présélection. Le thème de cette édition était "Les Gardiens des Trésors Royaux".
 
 ------------------------------------
  🇺🇸
