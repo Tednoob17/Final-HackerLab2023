@@ -1,4 +1,4 @@
-# Final-HackerLab2023.
+# Final-HackerLab2023
 
 ## 🏁
 
